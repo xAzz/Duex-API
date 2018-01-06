@@ -1,0 +1,196 @@
+html{
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+body {
+color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: linear-gradient(rgba(58, 58, 58, 0.21), rgba(31, 31, 31, 0.46)), url(background.jpg) no-repeat center center;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2, h4 {
+	text-align: center;
+    font-weight: 300;
+    letter-spacing: 8px;
+    user-select:none
+}
+
+#contenedor {
+	width: 50%;
+	margin: 0 auto;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+}
+
+#sendCoinsContainer {
+	text-align: left;
+}
+
+.btn {
+	width: 100%;
+}
+
+.btn {
+margin:0;
+border:none;
+display:inline-block;
+box-sizing:border-box;
+padding:0 30px;
+vertical-align:middle;
+text-align:center;
+text-decoration:none;
+text-transform:uppercase;
+-webkit-transition:.1s ease-in-out;
+transition:.1s ease-in-out;
+-webkit-transition-property:color,background-color,border-color;
+transition-property:color,background-color,border-color;
+border-radius:0
+}
+
+.btn-primary{
+    border: 2px solid #0089ff!important;
+    height: 55px;
+    background: none;
+    font-size: 25px;
+}
+
+input.form-control {
+	margin-bottom: 20px;
+}
+
+.tab-content>div {
+	padding: 20px;
+}
+
+#menuYoutuber .btn {
+	width: 48%;
+	float: left;
+}
+
+#btnQuitarYoutuber, #btnQuitarDesigner, #btnQuitarModerador {
+    margin-left: 2%;
+}
+
+#btnQuitarYoutuber, #btnQuitarDesigner, #btnQuitarModerador {
+    margin-bottom: 10px;
+}
+
+
+#txtIDFacebook-coins, #txtCoins-coins, #txtPassword-coins, #txtIDFacebook-borrar, #txtPassword-borrar{
+font-size: 20px!important;
+    transition-duration: .3s;
+    transition-property: all;
+    height: 20px;
+    background: rgba(0,0,0,0.25)!important;
+    color: #fff!important;
+    border: none!important;
+    padding: 25px;
+    font-size: 16px;
+    border-bottom: 2px solid #fff!important;
+    outline: none;
+    border-radius: 0!important;
+}
+#txtIDFacebook-coins:focus, #txtCoins-coins:focus, #txtPassword-coins:focus, #txtIDFacebook-borrar:focus, #txtPassword-borrar:focus{
+background:rgba(0,0,0,0.80)!important
+}
+
+label{
+    color: #999;
+    user-select: none;
+    font-weight: 500;
+}
+
+input,select {
+border:1px solid rgba(0,0,0,0)!important
+}
+
+input,select,input:focus,select:focus {
+color:#fff!important;
+background:transparent!important;
+box-shadow:none!important
+}
+
+
+#navigation {
+border-radius:2px;
+    width: 100%;
+height:50px;
+margin-bottom:18px;
+user-select:none
+}
+div#menuCoins, #menuBorrar {
+    background: #212121;
+}
+.nav-tabs {
+border-color:transparent;
+background:linear-gradient(to right,#212121,#2b2b2b);
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;
+border-radius:2px;
+height:60px;
+padding:10px
+}
+
+.nav-tabs>li {
+width:100%;
+margin-bottom:0!important;
+border:none!important
+}
+
+.nav-tabs>li:nth-last-child(1) {
+margin-right:0
+}
+
+.nav-tabs > li > a {
+text-align:center;
+border:none!important;
+font-size:14px!important
+}
+
+.nav {
+margin-bottom:9px!important
+}
+
+.nav-tabs > li.active > a,.nav-tabs > li.active > a:hover,.nav-tabs > li.active > a:focus {
+background: #333!important;
+    border-color: transparent!important;
+    color: #fff!important;
+    text-shadow: 1px 2px 3px #666;
+}
+
+.nav > li > a {
+color:#ccc!important;
+transition:all .3s linear
+}
+
+.nav > li > a:hover {
+background:transparent!important;
+border-color:transparent!important;
+color:#ccc!important;
+transition:all .3s linear
+}
+
+.nav > li > a:focus {
+background:transparent!important;
+border-color:transparent!important;
+color:#ccc!important;
+transition:all .3s linear;
+outline:none
+}
+
+.nav-tabs > li > a:nth-last-child(1) {
+margin-right:0
+}
+
+.nav-tabs > li > a:active,.nav-tabs > li > a:hover,.nav-tabs > li > a:focus {
+background:transparent!important;
+border-color:transparent!important;
+border:none!important
+}
