@@ -1,0 +1,1504 @@
+[11/10/2017 12:22 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=38.99, protection_eligibility=Eligible, address_status=confirmed, payer_id=K89TJA3KCSKM4, address_street=Abu Dhabi Alrhaha garden, payment_date=04:21:21 Nov 10, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=00971, first_name=SALAH, address_country_code=AE, address_name=SALAH ALHASHMI, notify_version=3.8, custom=5237, payer_status=verified, business=angel-ac18@hotmail.com, address_country=United Arab Emirates, address_city=Abu Dhabi, quantity=1, verify_sign=AdD0LizPN9VgA4NV0Y-xsMCMefMIAKKMWd9mPxYiHiGi8KXxD4oBZheC, payer_email=salah.uae4@gmail.com, txn_id=10014369SW6881810, payment_type=instant, last_name=ALHASHMI, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=multi_currency, txn_type=web_accept, item_name=Duex 40000 Coins  X $38.99, mc_currency=EUR, item_number=10034, residence_country=AE, transaction_subject=, payment_gross=, ipn_track_id=841197a4890cf, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 20aaba91ef50f
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 3
+X-EdgeConnect-Origin-MEX-Latency: 384
+Date: Fri, 10 Nov 2017 12:22:41 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=QK9fyOSwhA_XJ24L-qwwMX0I9MhyXklzTzuz6lw2zl17lMZIZCLFS6yJyM9TDF40V89iMXPScJBIRxRAbBhCuenU4zlIWrMuToFbY-ZLver6KMFfdioEBL9nID4z2_1zfprpz8Haq6937-w6upiVHf1LvMeLO91TgTBKaE2r1ctYM8c3Yoz3_dQpjrBWPL-dvDp-EXPIQNZ35-OhUh6voJ1M1onoNlm5rkcThUNt6RXfJk9DJ3qNoXNXWxmFmAQQH784Swv6Y5iXhWtrhOcHHpsrWLjz11QZDhOaGWsOYjbTUiNHwRzbbPLQrgFNf6ZyQeqf7eMg8JSNuOUlxho-gZQh06ZyMJWOqlTWlgr6SsnO1bFzigogy0bM7vUxZ0Nlu2UJsDGYlf-vE0a1mEYiWyFUvhkohCo45csPj4a5qlbUSFMAj0OCzVXlkKe; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 08-Nov-2027 12:22:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 10-Nov-2019 12:22:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D278529370%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Fri, 10 Nov 2017 12:52:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Fri, 10-Nov-2017 12:52:41 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510317161~id=11484e701618229e046c367341e3648f; Path=/
+
+VERIFIED
+
+[11/10/2017 12:27 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=38.99, protection_eligibility=Eligible, address_status=confirmed, payer_id=K89TJA3KCSKM4, address_street=Abu Dhabi Alrhaha garden, payment_date=04:26:49 Nov 10, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=00971, first_name=SALAH, address_country_code=AE, address_name=SALAH ALHASHMI, notify_version=3.8, custom=5237, payer_status=verified, business=angel-ac18@hotmail.com, address_country=United Arab Emirates, address_city=Abu Dhabi, quantity=1, verify_sign=AzLOG6RDW7UNVZOyM9V.19OHhiBIA5o8hxwvdJdkwSE1wkV-T7agHQrl, payer_email=salah.uae4@gmail.com, txn_id=656348204P6195107, payment_type=instant, last_name=ALHASHMI, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=multi_currency, txn_type=web_accept, item_name=Duex 40000 Coins  X $38.99, mc_currency=EUR, item_number=10034, residence_country=AE, transaction_subject=, payment_gross=, ipn_track_id=3a270cd8b65e0, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 2d5f8ec47480
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 481
+Date: Fri, 10 Nov 2017 12:27:15 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=KvQ9CZLNFpdnKOLrr8nyJTRyS4pqDcXLq2HmfzKQW-nT_eJT_0Yz4QzZm7xhxauW6XEFaOjomgxmwcIcBpfkeGzAsNjnay5MwJ9av8g8h19DYXIYP4p6WZhEG2-pj1Uam8QvdtS4w6HEKwkEgXt4TNw9WKXVKLvabrO1NzFiDLIGaJjhPCI6UUjKcrqYi9YBDRwVXBZ8wuFZmdFS3nEamAilBjrfRfx_R0c9Km5UGVLJGvxXMRDJs7Kedfra3BBXgmtcT5ZADnZeV3aMb--x1w8q_csBeA97wfbMjJLgJJpCBqsfJn6InmJi8OqYJR5ybr6P9WK3G4T88VVQ_iitJTBSwou_Rq2649WFc_ynU1XFNrbf_au8iqZMNdGB7UMfH-fvVvCSNFpLX-zDrk5rxW8R389P5U7E-6gTb-WXOF8W0KGES_QUhkvgWBe; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 08-Nov-2027 12:27:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 10-Nov-2019 12:27:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D597362010%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Fri, 10 Nov 2017 12:57:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Fri, 10-Nov-2017 12:57:15 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510317435~id=1fc5848be3c7d45718db124ee7872b4f; Path=/
+
+VERIFIED
+
+[11/10/2017 7:38 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=25.99, protection_eligibility=Eligible, address_status=confirmed, payer_id=MGD3D3ZN6HLTJ, address_street=Bogucice 2
+
+Szosa 25 a, payment_date=11:21:26 Nov 10, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=28-400, first_name=Micha, address_country_code=PL, address_name=Micha Warzecha, notify_version=3.8, custom=8307, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Poland, address_city=Piczw, quantity=1, verify_sign=A8lL10HqSHBkbc6gapwDL89kuc6EAyTqjPT-TGMAygjhvtCGl4pMl5n3, payer_email=bartoszwarzecha90@vp.pl, txn_id=5W166252UB313245U, payment_type=instant, last_name=Warzecha, address_state=WITOKRZYSKIE, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=multi_currency, txn_type=web_accept, item_name=Duex 25000 Coins  X $25.99, mc_currency=EUR, item_number=10033, residence_country=PL, transaction_subject=, payment_gross=, ipn_track_id=e7cd2ac1db58d, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 9b5114d563ec8
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 3
+X-EdgeConnect-Origin-MEX-Latency: 423
+Date: Fri, 10 Nov 2017 19:38:00 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=s57O7DZM9oJFg04SI2qGR3rk2vrrG8ul9uxsrCcCRLmD54ZOv6k0obMbVvLZcCRX3oH8NsCXeJHEZ2MQSTYXwb63dmf3jWZh_8dU6iKJD7JaV-Y27-qR_suJdDxJSbtIB_3z7u7gjdpLpZ5xURcC2SK-Tz9aB2XeIYw_48K82iu7rBj9aNmo27Y2TRG5eCHJMvMXEWY4CGox-Z2RWMK1ffX-luFW4bGnC8zbTe3sbR3ysUs6Ss3TGMMwyzxT5UHbNRzs8QQYnHulX0Q4GR7s0ymVSvCUj2YEq8b5NyQKeqvaDIVYEEoQC9qpWOrABVndKXBaLcY21WdnJ018wj5vlJ1ylImGia-_1qm0FJ9i8edO0vI-E0-FyPI_20SiT_DeJ8qsQgTecnZLcqIo_QOWfVrI8n5XXU8qHgkBcrSoijhpMIQ3RNDCytjtzCK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 08-Nov-2027 19:38:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 10-Nov-2019 19:38:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D402654810%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Fri, 10 Nov 2017 20:08:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Fri, 10-Nov-2017 20:08:00 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510343280~id=7c4426180d6ef554af32dc61eff10a5b; Path=/
+
+INVALID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[11/10/2017 10:35 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=7.99, settle_amount=8.08, protection_eligibility=Eligible, address_status=confirmed, payer_id=M79F3YPTAB36C, address_street=San Raul #41, payment_date=14:35:40 Nov 10, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=22666, first_name=Pablo, mc_fee=0.78, address_country_code=MX, exchange_rate=1.12074, address_name=Pablo Espinoza, notify_version=3.8, settle_currency=USD, custom=1, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Mexico, address_city=Tijuana, quantity=1, verify_sign=AH9aCczZWqmynGY9k-VG6QLIjNNLABMjFpPNnrIxG3B0MFNf8FHFIomK, payer_email=vergadeosomaduro@gmail.com, txn_id=21807122F1099334R, payment_type=instant, last_name=Espinoza, address_state=BC, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 5000 Coins  X $7.99, mc_currency=EUR, item_number=10031, residence_country=MX, transaction_subject=, payment_gross=, ipn_track_id=b8c8f7f264a5a, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 9d2398d981d44
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 397
+Date: Fri, 10 Nov 2017 22:35:49 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=hAGMwH6IveqZ2062nsD-X6Lhc625NIYRxLReY3uhN6Ij4tOBD2PlRT3wClzEhng4263ARkbmhunGPxA4rNdB5w4n6DJGXJF1TjelkcRDd3T8WYHME-qt-TPY2F1_DSq2jksTH74ArU1Wy98BqlIUmzz7x5bs1eiS6uE84ajEEn8AqTkMXRof7yBEGkmmcUFrM9FJEEr--9T8vmLDfKTzZmdQu0VJq8O2pcClnnse4u2IhQ-b5OHzULWrlWRZjkxFXA_8ik61XE4Kdc7OtrIITtGakllTYjWwVswmIkS-UfE4kOhWaKN7CkxTqAXdXBR-vhDgmI4sIBs5JFldoctbNafQAZG7WlWi8bURNQlkQIrFqnFhMYwKd_h_IiRvHsJEUo58UdSjX2kNZ4MuNxUyAkR7Wr204rjgEbFURN_3opPHJxdIOwYV_f4cbve; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 08-Nov-2027 22:35:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 10-Nov-2019 22:35:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3307800154%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Fri, 10 Nov 2017 23:05:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Fri, 10-Nov-2017 23:05:49 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510353949~id=658b597a8683887880feb205edd03fcf; Path=/
+
+VERIFIED
+
+
+
+
+
+
+
+
+[11/11/2017 4:25 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=7.99, settle_amount=8.08, protection_eligibility=Eligible, address_status=confirmed, payer_id=P78HZBZHBXZG6, address_street=8 heddington rd, payment_date=20:25:30 Nov 10, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=19720-8816, first_name=WESLEY, mc_fee=0.78, address_country_code=US, exchange_rate=1.12074, address_name=wesley parker, notify_version=3.8, settle_currency=USD, custom=5298, payer_status=verified, business=angel-ac18@hotmail.com, address_country=United States, address_city=new castle, quantity=1, verify_sign=AcBndTlrg.nL34ZxnL9tcusmjE6gAm3KHwohj6mYAvJC0WDect.8ooay, payer_email=SSGWES@MSN.COM, txn_id=2R088518LF5082240, payment_type=instant, last_name=PARKER, address_state=DE, receiver_email=angel-ac18@hotmail.com, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 5000 Coins  X $7.99, discount=0.00, mc_currency=EUR, item_number=10031, residence_country=US, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=3fa3cc148e8f1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 9ac1b93dd46c
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 520
+Date: Sat, 11 Nov 2017 04:25:38 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cimOJ_W2wFY4hf2WqKNqju6daavJ3fXdbv1gJcY3KrkjA9TJB2HVm8kA5me8c7oKdxr_QrcXyUbS5cUbb5NcWbRG9OS7FVF3KW3TWDZrFvDDRRAdJvScOmb2ZwkS7xqACpNnwly0va97G4O9gyMJM62UtxhricF9sYAdOSdWGBa-lh26FgA53-LXxFkgZmXhywEQpLnD96GmYiPNTzOahNhelx-FAn3Bg4e4kA2v3_pxNIuxs6lZBJfeH_n-l_heOvesVnBZRclkyRQwJRxVAgQVNRC2Wz96Z4_D-x8pANOSGhoJXQO6GwJdugMuqv0fF6ovNVNPH2HxvIvr9P8Wrx2hTnK4SIOcgAsAax8k7GluEdBlCsqfR3eFemmZP9fEliZbSpyRvOy4gqxJkhXdonCFOZ_CgdGnDjI7TM5sBLl2DQpRQroDiNZV7Fm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 09-Nov-2027 04:25:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 11-Nov-2019 04:25:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3246065242%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sat, 11 Nov 2017 04:55:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Sat, 11-Nov-2017 04:55:38 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510374938~id=cf00a68627cb6f166946e0f2593ead7a; Path=/
+
+VERIFIED
+
+[11/11/2017 10:13 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=38.99, settle_amount=40.94, protection_eligibility=Eligible, address_status=confirmed, payer_id=Q7UUXVJPMTZ4N, address_street=47 Pintail Cres, payment_date=02:12:56 Nov 11, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=4220, first_name=Glenn, mc_fee=2.46, address_country_code=AU, exchange_rate=1.12074, address_name=Katie Quinnell, notify_version=3.8, settle_currency=USD, custom=2444, payer_status=verified, business=angel-ac18@hotmail.com, address_country=Australia, address_city=BURLEIGH WATERS, quantity=1, verify_sign=Am0-TTTOQ0LZnR1O.55xpJfYCJlRAZbuBPo.2XZqYAXu04wvZ8-L76mJ, payer_email=glenn@powerfix.co, txn_id=03N00053VA897491S, payment_type=instant, last_name=Quinnell, address_state=Qld, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 40000 Coins  X $38.99, mc_currency=EUR, item_number=10034, residence_country=AU, transaction_subject=, payment_gross=, ipn_track_id=fcbf6d3f3b9e7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: e1975049be9c7
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 5
+X-EdgeConnect-Origin-MEX-Latency: 476
+Date: Sat, 11 Nov 2017 10:13:05 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=hk40pPiF-CSpw8hvrJmmqiODM5Q6o5FzcuSSNG4OPLNYVtUXbejfFYvqSbdCyndvAbBrKz8_4lyJmQ3Pw3O_WwzHxuvfafhYLp6IriaWbYS_RQVuMkEs-C4YpprNnKT8sRbf6LUjkPDCfn8UQaHWEIlyt4rGEz1OuRl5eMu7fGFoDjvlwwoN4XQyTFore0V3LJIxbRxKYEdo8Ud3V_twjIA3lhd3IViPkLM_zmmDYvnm8CAs98fu8CTs2FPye-yPYainNEwI27nOtZ3K5Ln2VpcJr9HtAi_naudlEDpk2AG3Qq8Tq_s9BuNCs5PETfZ6EF-hVSnbTZQ5-7c4WFvvKJ2rXBWVOEaaEMlvODAhn_dGmI1KxknNqwj1kR8NadLCJEAwEoypoRg4AMK_hoRWyYdm6eu0a0bKtPmZxoZ5adEd9k6AbRvGRGwShIO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 09-Nov-2027 10:13:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 11-Nov-2019 10:13:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D818742874%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sat, 11 Nov 2017 10:43:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Sat, 11-Nov-2017 10:43:05 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510395785~id=e6633bbfdd87c07579abbf470c0e2ce9; Path=/
+
+VERIFIED
+
+[11/11/2017 1:15 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=7.99, settle_amount=8.08, protection_eligibility=Eligible, address_status=confirmed, payer_id=VYUF4NRLVAFUL, address_street=d, payment_date=04:32:14 Nov 11, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=92270, first_name=joseph, mc_fee=0.78, address_country_code=FR, exchange_rate=1.12074, address_name=joseph ibrahim, notify_version=3.8, settle_currency=USD, custom=8483, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=France, address_city=Colombes, quantity=1, verify_sign=AfIm206Y-v3yEpq.qFmXB7DgYbMyAjRWgb776vK5pdG5e7SrVDwvdAZR, payer_email=furious_92@hotmail.fr, txn_id=0PL609726R695031E, payment_type=instant, last_name=ibrahim, address_state=, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 5000 Coins  X $7.99, mc_currency=EUR, item_number=10031, residence_country=FR, transaction_subject=, payment_gross=, ipn_track_id=fc19ba365e3c2, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 964679bd1ccdf
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 1
+X-EdgeConnect-Origin-MEX-Latency: 573
+Date: Sat, 11 Nov 2017 13:15:56 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=XmJQmyZJv6Zjp8_wnw59I07sBjurJst9oMN-5IfvCKYw44RBs8gQv3dkMa1Vw6biJuSu1xCQpRT_UktB485NY455EJsDfMLgcfbtgIHYdkPdGQtOR8sC-p2Bv2aWBfp2AQQTIfPBxsWU-leg4IRb-OoFp-z06dI6IVVIMghvQ-7Y0JgzlVT-zjwXl5P_uI59cXzZ_uB816DfVY_8OrY9-01I2w2NosFT9Nl4Cly5XlB1UcuqRwiQEVzYtF9PC2UyrLiDYpELV8k0xt6jyO7TyeRfhvXSnmjDfiVsggYA3BPulbadw_2AlvS-vDb_JH9uEa7CfDnTrdgZ2fXOVgGcKoknnkbA6G6gIZ_CUQanFwkg7-NBNgDXlYFOddwIoVSFrxp8p-t9luvSkpplLqXn3Ym3fEd_QMnloqGWD_cOPJearsBzwp0EkIxjvQG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 09-Nov-2027 13:15:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 11-Nov-2019 13:15:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D217581146%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sat, 11 Nov 2017 13:45:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Sat, 11-Nov-2017 13:45:56 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510406756~id=00bf3deb96c18ea765453a645855a631; Path=/
+
+VERIFIED
+
+
+
+
+
+
+
+
+[11/11/2017 11:32 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=7.99, settle_amount=8.08, protection_eligibility=Eligible, address_status=confirmed, payer_id=P78HZBZHBXZG6, address_street=8 heddington rd, payment_date=15:32:33 Nov 11, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=19720-8816, first_name=WESLEY, mc_fee=0.78, address_country_code=US, exchange_rate=1.12074, address_name=wesley parker, notify_version=3.8, settle_currency=USD, custom=5298, payer_status=verified, business=angel-ac18@hotmail.com, address_country=United States, address_city=new castle, quantity=1, verify_sign=A3Vd..Aum2qFeBnbcJLXQGLHNDmDAfxzXnZnOCJ1CnlGYV8sY1N6NkxW, payer_email=SSGWES@MSN.COM, txn_id=6E6616489D3939332, payment_type=instant, last_name=PARKER, address_state=DE, receiver_email=angel-ac18@hotmail.com, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 5000 Coins  X $7.99, discount=0.00, mc_currency=EUR, item_number=10031, residence_country=US, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=7f1b65ca91cc4, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 528886858d1d3
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 576
+Date: Sat, 11 Nov 2017 23:32:38 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=bArHqdDNKTYZ0sAFXDGl7f79AlWyRnpbtmMBIuEq6Cpz-rltwVeLZaxYzjOYe-M8nyd5nT2e7jL-Oqras8EWHrkd1N_1yOeKUwwg4E-JZ1vAZdfB9OYL7KwBaLQ0EOxfiRa6QqdsfE27ugaL7JcbbqpW0q5QPecRTv2zveMuXa1ic3gpC7TUxAcl-SlKfbIALTlFIH5mEvi-jNnR_k2hV-GD9p6KYGyVUmJqSrMd_VnR1jTQmBieE_K7BaRLNHVsF_s5Ws3WKapwpz4HuuSH_fnb_k3ClFLkBFW0OiHDV9gwgKx_5Wqnng1xZLQ8xNQIXk6NHUnVMPGVRitbsJbKLr4EQ2ORLu_z0Vh6kU5ChA0I6582_ReRZnSYbOk_CnrbGtDA6nby8ilKmV_FgdOVRdtRlh7zyF7UFE7CnSHn7H6qVU_Cu-olIU3pcbu; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 09-Nov-2027 23:32:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 11-Nov-2019 23:32:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2508719962%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sun, 12 Nov 2017 00:02:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Sun, 12-Nov-2017 00:02:38 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510443758~id=5f5e3ec179219b777cd75f105974ffd8; Path=/
+
+VERIFIED
+
+[11/12/2017 4:20 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=7.99, settle_amount=8.08, protection_eligibility=Eligible, address_status=confirmed, payer_id=3ES9ABWLXKVB8, address_street=Avenida Rui Barbosa  60  apto 601
+Flamengo, payment_date=20:20:01 Nov 11, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=22250-020, first_name=Mariana, mc_fee=0.78, address_country_code=BR, exchange_rate=1.12074, address_name=Mariana Turbiani Peronne, notify_version=3.8, settle_currency=USD, custom=7109, payer_status=verified, business=angel-ac18@hotmail.com, address_country=Brazil, address_city=Rio de Janeiro, quantity=1, verify_sign=APJ1tcrxcuBVZDxfYKKREwT78belAUnF27ZjQmvPHAwYNw4k0wv..mOY, payer_email=maturbia@gmail.com, txn_id=3GC19883JX104200J, payment_type=instant, last_name=Turbiani Peronne, address_state=RJ, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 5000 Coins  X $7.99, mc_currency=EUR, item_number=10031, residence_country=BR, transaction_subject=, payment_gross=, ipn_track_id=bc42e82122374, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 6525a106e97d
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 3
+X-EdgeConnect-Origin-MEX-Latency: 545
+Date: Sun, 12 Nov 2017 04:20:09 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=xSmsl9bUSDClEWdK1N858voApyv6FXRdRi8wsyVqsM_8gkFDWzImemJ9ufn5n7uWYSRBzm4Io6BJsdc-4snh9mHT5Ye8I1KSyzejQLguaaOw80-GjD01MCGvpwRNVsL7ad9OZPeh6QCqlIxDgLITOzLno3kJ4WWDb3HpjIKjWJWZ34kvORchbW6J1R2AePx_WTewELHhHlt9WZR5VNl86b4Q4Tyf9ip6G6xg9u28U3-bmKkyE-w0DeHjffHtqbfR8I6QNSDbt96yf4sOzO5fTDWzPR6pQW2uodJ6o9gZytSQCQHQk3fM0d7NMGgigu9dfAHRO_6rQ-V9X1V5tiGadQUzI-kqnXn0d2frflFrm9XOesVIYmNAlwA-rw8HyQLQUkdy4Dd-AXHcIPlmMduBPbfc61VyfY-lAxSheB0S7R0jf3srpeXv00ZXbDC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 10-Nov-2027 04:20:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 12-Nov-2019 04:20:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4190832474%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sun, 12 Nov 2017 04:50:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Sun, 12-Nov-2017 04:50:09 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510461009~id=c251f38fdd6c3d41ec8c90b168e6b608; Path=/
+
+INVALID
+
+[11/12/2017 4:21 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=7.99, settle_amount=8.08, protection_eligibility=Eligible, address_status=confirmed, payer_id=3ES9ABWLXKVB8, address_street=Avenida Rui Barbosa  60  apto 601
+Flamengo, payment_date=20:21:50 Nov 11, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=22250-020, first_name=Mariana, mc_fee=0.78, address_country_code=BR, exchange_rate=1.12074, address_name=Mariana Turbiani Peronne, notify_version=3.8, settle_currency=USD, custom=7109, payer_status=verified, business=angel-ac18@hotmail.com, address_country=Brazil, address_city=Rio de Janeiro, quantity=1, verify_sign=A--ZGHmYTghwjC6HzM5dUXevj.OuAfQyGpBajX4J8naP4kiXIboQrMiI, payer_email=maturbia@gmail.com, txn_id=6CT73158L7410672P, payment_type=instant, last_name=Turbiani Peronne, address_state=RJ, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 5000 Coins  X $7.99, mc_currency=EUR, item_number=10031, residence_country=BR, transaction_subject=, payment_gross=, ipn_track_id=8a5e7c9aea7f5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 26670032ab9e6
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 566
+Date: Sun, 12 Nov 2017 04:21:57 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=j-a8O3I1sFpLCUmjoG0aqvEtAJwVfy6NFJiPljFRMIl9LqadJ5a3zftfilzJi7A8Ymov9D2uJe1O2wTmZuVC0NuLZvdvZ5mbdnDAA1OUFMSND0cUHuqRdbsWHbTFctVNSw1bGGEYiz1D-rq29y2rEjTOer3z2MwBFugmRbdGXOuwlhJ9g7cek1k8KiLKEvu5QfdPLfl7534nDRKzqrvxlbYj4w0mR1BYmmcHgLNZbjyW06L_0SYd93krRXvb5WyT0CHg9p6-csvhwrhWVkvIcrta2spDS1PcNn5zsDO019HT6CWO8x0PxZ5uBumwfnoIEpLFBYSmrmFdal-cQsgtD8swlEfcltFunF6jeDeLmMP6FNNvAfvWtC9TR7cfR_r0yTZn0xMzQNpefn8-rVkrFFdwR6MFYf9N5d_9jTgPYSMxHyKi7MJ6smMk4E8; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 10-Nov-2027 04:21:57 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 12-Nov-2019 04:21:57 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1691092826%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sun, 12 Nov 2017 04:51:57 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sun, 12-Nov-2017 04:51:57 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510461117~id=aed24a893b0cd6a0f74122621147e72c; Path=/
+
+INVALID
+
+[11/12/2017 11:18 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=7.99, settle_amount=8.08, protection_eligibility=Eligible, address_status=confirmed, payer_id=G2KMRJC6QCSAA, address_street=206 NE 52nd St, payment_date=15:17:53 Nov 12, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=98663, first_name=Lori, mc_fee=0.78, address_country_code=US, exchange_rate=1.12074, address_name=Lori Malarkey, notify_version=3.8, settle_currency=USD, custom=8227, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=United States, address_city=Vancouver, quantity=1, verify_sign=AYzMFbUpeDDfCEeEKmR2iTb1EtmMAFVv.BJT9iDwSN7DyLQooAX1TCHn, payer_email=malarkeyx4@hotmail.com, txn_id=4XC57115W68237743, payment_type=instant, payer_business_name=PNW Girl (Scentsy), last_name=Malarkey, address_state=WA, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 7500 Coins  X $7.99, mc_currency=EUR, item_number=10031, residence_country=US, transaction_subject=, payment_gross=, ipn_track_id=5482e5078f959, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 14cd85af5574a
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 564
+Date: Sun, 12 Nov 2017 23:18:13 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Y0d22rEZL8WsnUtknmhwdpiV7hKhh9KUDsTTK_LFFkpOLzr9Yv1Q5pHAJ96CSr_Ayfo9RAfPtpjAF_3dHZdVe--4g1vpuK2BcOjao6dWCZs9_GE9eKJpqOm5XDqJ7CnTKIvdCfhzebKDsovwOKms6PzRGNChYE-0mQ-85KZahFtOagO4PyHTAmCulKrK-cjx9P7Dtt-wkt5fQWP_9lWd2U1U2x-VNj3yipqrLrBG_-JUQZicAMse7qE-dEE5wXAZkI2JGVRnziF9nzaxwLeOP9MyBABC6ncFRzDDsIGFVtii1bAxNKB7rF_UzSFRZ0facuKTPUh5Tm7p3EAWPpDgxutQysK1ZP6sUkNGcv4fxR_qKDUy-zi7jTcbpLzQYjVshbwgnC6RitPzCkssM4uM53EVZmkFgmNanNAc9amE5atPRef4jGd7f8T-IlK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 10-Nov-2027 23:18:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 12-Nov-2019 23:18:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3050702938%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Sun, 12 Nov 2017 23:48:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Sun, 12-Nov-2017 23:48:13 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510529293~id=37a0d7d2342ffae8272c5fdd9278fcb7; Path=/
+
+VERIFIED
+
+[11/13/2017 8:17 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=25.99, settle_amount=27.16, protection_eligibility=Eligible, address_status=confirmed, payer_id=KX8X428SJ7224, address_street=1326 Bush Ave, payment_date=00:17:46 Nov 13, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=94806, first_name=Brayan, mc_fee=1.75, address_country_code=US, exchange_rate=1.12074, address_name=Brayan Torres, notify_version=3.8, settle_currency=USD, custom=1796, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=United States, address_city=San Pablo, quantity=1, verify_sign=AQ.BUbuGxlReKBOtjmPp1MvGiFCtAmWfFwGYVhYptYRzH8.DZUZUUFP5, payer_email=itrxy510@gmail.com, txn_id=3UX58328MU303345N, payment_type=instant, last_name=Torres, address_state=CA, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 32000 Coins  X $25.99, mc_currency=EUR, item_number=10033, residence_country=US, transaction_subject=, payment_gross=, ipn_track_id=6aecd4b6c9e32, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 8268aa2e474e5
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 1
+X-EdgeConnect-Origin-MEX-Latency: 452
+Date: Mon, 13 Nov 2017 08:17:53 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=bVsco5U8INLTUB40zGZobWjeL03BGC2RYKfshEfY_Td7xAPr7ZrvLpYqs6ZyGiZd3jFczFoQ7q9ATpHApk7c0UcLNpX8jm6hfnGKPLYb4zOr7K9EWdEyTfsjKzkuNowMJb9UXnOJcC4KICMEyRMPGiBKVxetn-C3-tMfcG3qeWSluGsNkRXzxFnM3H7-XdPRUKQXICL6_sqDNpAUBod-CT8mWTW_15azsaL8qImaXmWLtmJeU967bPPwNRlsvkZbRX7_xwHULsSRRh_2XAnD51Ask53JJVF3QV0U8uCb9iJIckhh8Bq1ydjUmDe6MhiIF10bcEk35T82T-wCYqE8UmZfkjU5U8PKq3rG2t3u-bezXhkYGmyvS0mjLxR02hQdm6UgMATCiq6AYN3vUWnD_8lc4OoPdan8g6XHyEpLxpVuewIQaFagdOXvQWS; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 11-Nov-2027 08:17:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 13-Nov-2019 08:17:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D827656538%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Mon, 13 Nov 2017 08:47:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Mon, 13-Nov-2017 08:47:53 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510561673~id=47bc41555b20844f4dc94b658ce8182c; Path=/
+
+VERIFIED
+
+[11/13/2017 10:27 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=25.99, settle_amount=27.16, protection_eligibility=Eligible, address_status=confirmed, payer_id=6HZV8G6EN94FS, address_street=48 bell-are avenue, payment_date=02:27:40 Nov 13, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=4013, first_name=Glenda, mc_fee=1.75, address_country_code=AU, exchange_rate=1.12074, address_name=Glenda Sinclair-gordon, notify_version=3.8, settle_currency=USD, custom=5065, payer_status=verified, business=angel-ac18@hotmail.com, address_country=Australia, address_city=NORTHGATE, quantity=1, verify_sign=A.4jP21TRNBdbmf1gFOvsyLdhA9qANBPGp.2v.9qzZKrTjlDJ.PGowvX, payer_email=gsinclai@provet.com.au, txn_id=0BP74988JS626490A, payment_type=instant, last_name=Sinclair-Gordon, address_state=Qld, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 32000 Coins  X $25.99, mc_currency=EUR, item_number=10033, residence_country=AU, transaction_subject=, payment_gross=, ipn_track_id=bedd2fd65a616, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 5a44527098c18
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 3
+X-EdgeConnect-Origin-MEX-Latency: 495
+Date: Mon, 13 Nov 2017 10:27:50 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=jwu1zsTsbdQACbV3hzkwIL-d6nlIjn2EOp-3_SNgRK6zkGKB5qYIZ7SShzOiarMF4m3VT3ZFvMVD6Wk0lM98jjoxS7J5quCDmPVO5Z6a64tZWP2DTMvhTsfe1aIVae47Ylz_TdcxKkBHcx9_RVHJlYYnzGX0SZsDHmLRz25OAt__Pca56a8HDDO-F-4B12-NEYMKSHF10HwbCcpOY6K4_4t3dB2RqJdMaD6rsvO7l9Szg2-wztE7UknZ8qHzdxMJJZ50urIp2IYhjuXgvTM_rBBxnvt5ZtOyI6TIAeTORJ6dG-jTJdJi1tVkcTe19tsyERgNdvEf1bHYS_W--o9kpQkJlm_k0n-L69c7N1Xz8wVzu3RHvV0t3WRokKkXgXL5QSb83rzApsi9zyWJEeCH6HdXBcBNQ_dBfL5xa3lis3Zl0JVQ276w_EXu2ni; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 11-Nov-2027 10:27:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 13-Nov-2019 10:27:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2775779674%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Mon, 13 Nov 2017 10:57:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Mon, 13-Nov-2017 10:57:50 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510569470~id=c286f0447ac26bf4144041cc5dc0b574; Path=/
+
+VERIFIED
+
+[11/13/2017 2:04 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, address_street=123
+123, payment_date=06:04:41 Nov 13, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AkzzFSf-UHow2ODnhREqm-IC9vIlAjYaTOSpAf3p1xGfyHJWwhJEMiu1, payer_email=head2429@gmail.com, txn_id=9TW64742TL653133S, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=d48f56e7f027e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 2f3bc31f6a6ed
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 563
+Date: Mon, 13 Nov 2017 14:04:59 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=1hjZGL8jnVIE94AUqQc5bW-2PrnxfghSpK5J-mYhRKhvQzZvoHJf95dS0wFc3Akt5oDFrifBXiF7nyTFdN5Ef3FhYpZKBudeVZRzCf_CnE8wBPYrzEYx3bZmf2NAa6L2hIzUXV250wgU-ZTyZjxkfcin6m3bf1Wv0DyD4ODOUBtc-1kfY5hind_YgMK-n6878Fa1U-MWPWz9IfLSYO54qcW_8AvYsjchW3l4w4dl_aFDbV7jXrM2N2vsRYEt5pCAuAT2JIxNMjGU09IchnQSDC8Eu7XaSDjQEUOLqgCNghmD4VQadYxhb7BL_qY6uglJTtsdza1v75NzUKEjNKm8PxDAy6nDPtUBE8tiae4nrDNThSiz9FARe5bd1dEKYQDm2us-fbkUAt6MVAgQYxqRAdkj_9xj14oENhNUOgeMASDay43SogqKky_4rYW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 11-Nov-2027 14:04:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 13-Nov-2019 14:04:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2326137178%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Mon, 13 Nov 2017 14:34:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Mon, 13-Nov-2017 14:34:59 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510582499~id=4ff7893a084357bccbb151847b7b05e4; Path=/
+
+INVALID
+
+[11/13/2017 2:08 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, address_street=123
+123, payment_date=06:07:57 Nov 13, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AobXeXUDGemXt9hd7t3qInSlXmJFABPaeTq5ZoP8wRx1KLvi96yiAptH, payer_email=head2429@gmail.com, txn_id=9U779456PG234294U, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=6c6835407fd28, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: f35014804e194
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 1
+X-EdgeConnect-Origin-MEX-Latency: 454
+Date: Mon, 13 Nov 2017 14:08:09 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=-ChQ-Sgc-sg3G8dwOlyqNYyWRVOkvxGjqlCOxrZ_4x-EXcdcN9icwKX7dLaI-qrWHbHVUhDvrACOZQjUR7mgOilhMPDijk3PfRL0p19SqifHZ7n0GDZURFYrFJgxv6W6jmb0c5v5GheExEao5TXw8kJ2l6hnXY58-IR6pn9i3V4qRji-62t9m1Dl0TjcOViwg3qj_U-SnCs4wHac7bnOOjzdRJ9xmQQJGDOYMH0tg9GM994ge8wjNUF6MoiDi0-8jcqJvYkOIhj8xugdTTRZUZJpeQLLXb3LcHQ46BPAv3gWAwytE2ZG-6qI_ckcQVDvZEiyJHJSJZVOUbLKnIucJvJmRpKoofwb83C29VH_-ziacZpOnrBkKZcAbdKKUr80CjpzaDqhY9C87XsvZUJzyT4k1f7XCUPvlIPIdINoGOm_DgikascqrLrNZNG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 11-Nov-2027 14:08:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 13-Nov-2019 14:08:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1235683674%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Mon, 13 Nov 2017 14:38:09 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Mon, 13-Nov-2017 14:38:09 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510582689~id=7d9009b976393efe293a9db823261e72; Path=/
+
+INVALID
+
+[11/13/2017 2:09 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=39.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, address_street=123
+123, payment_date=06:09:25 Nov 13, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=APhCCf12rCxIDHfIVgku4Fn6a2ceA6TVHTLh89yA1gu6YNdsxyZXtZBJ, payer_email=head2429@gmail.com, txn_id=49813293C4915941J, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 50000 Coins  X $39.99, mc_currency=EUR, item_number=10034, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=a2e8dfe3a93c7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 60826341e9e1d
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 5
+X-EdgeConnect-Origin-MEX-Latency: 527
+Date: Mon, 13 Nov 2017 14:09:58 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=aYeyOcwfe3-9V-MJRToh9iIkIopKjJ07JoZtMzQgStZ5SA2EIMS4yMr8z8bvJ4096CvXMZvoFS69NRhIqFnboGLvxWV3ZAsp83B3yNde3nuYUZzqakyJFMuHlufERtCJx3T3OWhgEARfOLKhdR4wck-kku8Ek8eWub4tzVuCF5V76Ph31lxXkqiPJOv5si_TsUPPvAfC8WGny67jZwLpnUECOSXMsjpYjqhlLYx1GijkXikkJYSuyHpPqVyJxfOwYXzRdCu4o1nVPz0tJpZGV2ucHjw3rJBFZoY7bM13OYTApvvRYFJAjWNPKdm9O1WzjTkvl_MmF33gywpKey3gDxCTWOu6fnztbRBMQBj4QmjbKaPZwzbhAOHQd9k8kMhh_7QkniI1eYoMygK3JkihFYwOr80pfOpA-cxgdlouFWQST9MLYXX5lpsuThq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 11-Nov-2027 14:09:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 13-Nov-2019 14:09:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3047623002%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Mon, 13 Nov 2017 14:39:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Mon, 13-Nov-2017 14:39:58 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510582798~id=91f0267f2661cf24ca354ab44c9f8953; Path=/
+
+INVALID
+
+[11/13/2017 3:27 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=7.99, settle_amount=8.07, protection_eligibility=Ineligible, address_status=confirmed, payer_id=D3UT9VGW3JF68, address_street=mafalda favero 44, payment_date=07:26:52 Nov 13, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=44123, first_name=michele, mc_fee=0.78, address_country_code=IT, exchange_rate=1.11988, address_name=michele spisani, notify_version=3.8, settle_currency=USD, custom=5890, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Italy, address_city=ferrara, quantity=1, verify_sign=Aj2ztDJP2PCho1tFh3MKuqtxeZlQA1xzreLHaqClYMfahlHvPln.QzPM, payer_email=michele.spisani@gmail.com, txn_id=7DN02875VR680831P, payment_type=instant, last_name=spisani, address_state=FE, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 7500 Coins  X $7.99, mc_currency=EUR, item_number=10031, residence_country=IT, receipt_id=2437-9456-3462-2257, transaction_subject=, payment_gross=, ipn_track_id=aa680db62e5ed, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: b08a47505945a
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 617
+Date: Mon, 13 Nov 2017 15:27:16 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=btjEDfmd1E6JrcAQdrQbeqQnu_XqJIjaMwTW83zqmvYSre-9JF_gZCuNyqftsW1Q11q9IRkD6QiPgqFm50YQOz3dZ8zrSYlqwQe6NeKMAyIQLibhgIX1zSflxu1zLfTjSR6_AqyLGr8LoO0b_wW2ojeZS3IXeAJunE4WS4qiNIUgLT74YzEeWTqmcAfjwYjj1iHkREqiOXFtY5R54wI1bREwD4ql-kjPwc1OqWvSaPLD0euDn9eHkIosdPtABvRtoXHkrW7DY6Ep8BwRnHTaw9YMkCKEGxe-R5O6TazBSaqcOHAp0vuxP49OeSZ-S1ezhl9ZE3wi2zO_LmcAisv4o_0glw0k31XXY08XZmCWoB3ZX1VxTHTx2kDF2iqVwHdQnyauhOMA-9l4hSYEW2ZiLKxM5dBRn0m1IvFAgJRl5AwWngoETplkobP0324; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 11-Nov-2027 15:27:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 13-Nov-2019 15:27:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3568896346%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Mon, 13 Nov 2017 15:57:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Mon, 13-Nov-2017 15:57:16 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510587436~id=8dcd545c07944f5f39220bf2643cd192; Path=/
+
+VERIFIED
+
+[11/15/2017 5:44 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, address_street=123
+123, payment_date=09:43:38 Nov 15, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AbGBzFK4DWlSGXt0NfspxyNA9KwCA3SU.rADCaraGuwz-mpu20m1yvtI, payer_email=head2429@gmail.com, txn_id=09F22593C56826924, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=1bac9263cd5c3, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 8b647ccb1260f
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 4
+X-EdgeConnect-Origin-MEX-Latency: 488
+Date: Wed, 15 Nov 2017 17:44:20 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=AEVvJVIyHtkMtlkPlnsNAQCQnb8yHXUkFYFyGUiTWLJhqQRgW4Ix2Po7Hjrb5JItxbj-H8cVQlvYkms7AfH9wNElX5IcXCrVukIVf8T0Elsk56eL-U4jujQ0EdR5qUxJYlBKOZ-Rpfr8e2qmT8DYxGl4dqD092V3xAuQAqyVtxYv1JvxzT2VuZCob_9tvUG0tTCtvJvKQv8N5S7MxX6g0cSJapiz-D7RD-h8dRTwf-XYpSGaKk7d_tcg9nxxdRS7TB-HssguRYeQ9EoyHmNNNp-PmNLvAtHlTzF5EOkCoNe7F0Jd2EKFGjuUyVL_M66CuUDwpPm_7yieguuBYRJZJTZvRaG8PjIrW5bmYPPBaCcBXTOaDyT6KyHA509olaAT4pQAZetnzVZG1n0UxRqovjph4LwbdZze9aRaiZ-8druMaucmluNWt2ANJxO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 13-Nov-2027 17:44:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 15-Nov-2019 17:44:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4101770330%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Wed, 15 Nov 2017 18:14:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Wed, 15-Nov-2017 18:14:20 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510768460~id=a5c0436d8d50afe9c21e41ebeef3b4fb; Path=/
+
+INVALID
+
+[11/15/2017 5:46 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, address_street=123
+123, payment_date=09:45:23 Nov 15, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AxaOhoJoqvJmK-aUSbhL7Cy4Dy6VACoMWNHn0PNm50bsGoMBpm5VVLRl, payer_email=head2429@gmail.com, txn_id=9WV58415U9766673K, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=9838eca68ef7c, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 4db22a09c3fbb
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 1
+X-EdgeConnect-Origin-MEX-Latency: 486
+Date: Wed, 15 Nov 2017 17:46:26 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Q1OQhAaFQddLWJcyNmkmGTrLPPL3sqIEm7ov2pPoEBjyf7cxTNCc-Ygm5Ki02CxPdVMQw_CzGZvgEjyokGCgh9vuHAuxNFI9ytFydhHC8HS9t37C15GWwmNpOjIKWuHnldUT32CGP1li1DZFoGJ3b2kkBB3ug72k0ID7IQKw1GLPwOgklzBs_ks51DRGKwaJ3PFXV5OZ360F8l0ZtVMX7aqkO5b0xWG0VKgtEqHErWlNkvbwFEl2Qo-gUsVvo3vww_FYP_U-DlGNBMiaF_9lYEW4jZGerpzmBlG-A8G2h9P7WG9jVi1kO7meVmRIhVljfGo-C5VsRVDdD5rXwZLiOt0b8-8aJ8S8xEAiiU2Fv8bSX9wJKeoLnb90I7zmyROzb-6zZ22mkFSPCF8lGAOCBKobBoHsnQw3eu6nupBFCGWStFXtsM5oGroR1IG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 13-Nov-2027 17:46:26 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 15-Nov-2019 17:46:26 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1904020570%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Wed, 15 Nov 2017 18:16:26 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Wed, 15-Nov-2017 18:16:26 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510768586~id=c86d8838aa679de8130ec941ab2feb4e; Path=/
+
+INVALID
+
+[11/15/2017 5:47 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=14.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, address_street=123
+123, payment_date=09:46:47 Nov 15, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AAdvIe0yHDjHfkWzRFUrAg2y2masATj6DIJ0USSbSIRYQv74BSBmadmc, payer_email=head2429@gmail.com, txn_id=066768890B9899336, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 20000 Coins  X $14.99, mc_currency=EUR, item_number=10032, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=81c8c293f2ed9, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 2bb650b6ed6d
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 8
+X-EdgeConnect-Origin-MEX-Latency: 550
+Date: Wed, 15 Nov 2017 17:47:16 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=c6FgoXD6Ohqz-zW_MSRWpzEB32nLdBpPIMTxq2r8ZPFXHcjq7KCp0FnNmXd2uMneLxMPEnCYMTx5ZYlo8ZjkJb_4wa2VflYaU_emIhiu9iALZG4oB0nvXCqHmKenEA5Tj021b1-Y-DJyGK4yWRJoIouLk0yHqvZqkapoiwNQCgwTC-teQTkqU3Bx3NXkjK2vefl3uLTk9onx1VEczDD1f8BuoRgEyFoyJcfcGKovGJZ_NpFBYMXwrKFXH64xnzjLITqZwBJ-a3RbGANe-UUNeDFMvGjiABLnoOLImvcrrxQaOmAhD7iXnYh0z-Fw5tZMhQ5cYxZAOlqIZWlyF63sQJrc04CLlrSWrRrcyYY9kgvq2PArF9hMjjJVGa8MMaQzip2fkYKl1Cm0yHl52rzvtKDuoO8dl3Et3sX63bSkxNDz7YYZaAzIgOtDmEa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 13-Nov-2027 17:47:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 15-Nov-2019 17:47:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2759658586%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Wed, 15 Nov 2017 18:17:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Wed, 15-Nov-2017 18:17:16 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510768636~id=2d75d391a8337d597ea01ffcf7cb2def; Path=/
+
+INVALID
+
+[11/15/2017 6:00 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=25.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, address_street=123
+123, payment_date=10:00:31 Nov 15, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=9558, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AsioFyDQ0BLRMasY9i44tFSVrcLRAuaAfiG2aJg0ZiLK8h-pqloPYfrC, payer_email=head2429@gmail.com, txn_id=4WE35601Y6075704Y, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 32000 Coins  X $25.99, mc_currency=EUR, item_number=10033, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=87c772af24215, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: a2393da985c03
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 3
+X-EdgeConnect-Origin-MEX-Latency: 510
+Date: Wed, 15 Nov 2017 18:00:55 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=0iruhDcjKiQSCLlAJptm4W5uGqSx7kO4HMFkuS9FuzQWdIDTK4JjK1MAsjDnBJ7YL5v2wwl__dvz9ADVbdtwZnTs9YvRgbfWS2hpBgxx1nl_2ZHoDbd6KhIcFCpOYqfnKFDp75S6TSJdE3VgBuBx4ErUTGP2clfTRoTx8JbI3DyBLQa_vfz0BMAwKTsC4W83pv4wA6v9GccdmLGdiOD7b3EUsX7LXc-a39hj1AewiXMY2AVjILJturt47zE09Km27UWMkTiWQQtng0kc-XM08fRChz6PfogCWzVe-_yTF9S_9WB6K_bUpuJR3kNLeB3oCIpGQ4jUnKnsGd7HD1d6MytmXeFXk36HiOPAOt-pWxJ5dHO7pYU-CjFdJJtxA3yFO-49Tgqcy4nVepLEW4u1PqY2zwGkFPa0TpfDAudeLmhK3CffKWPGqFFkwNC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 13-Nov-2027 18:00:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 15-Nov-2019 18:00:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3598715994%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Wed, 15 Nov 2017 18:30:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Wed, 15-Nov-2017 18:30:55 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510769455~id=78b65438b1b0a890b9b5bfd8bdfdb77a; Path=/
+
+INVALID
+
+[11/15/2017 6:05 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=25.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, address_street=123
+123, payment_date=10:05:19 Nov 15, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=9558, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AaPlnWd.buDZ7WyPXEEgAuoKxnznAJp3eXV6ifW9dF67-KDJG0nGNsGd, payer_email=head2429@gmail.com, txn_id=0BG59146MC0240612, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 32000 Coins  X $25.99, mc_currency=EUR, item_number=10033, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=746282535e96f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 41a101cba3597
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 7
+X-EdgeConnect-Origin-MEX-Latency: 711
+Date: Wed, 15 Nov 2017 18:05:52 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=p2wXGTCGIPD7gbYDG7zfXcG-8QEVqLU3oIntY9Sq2dfRYStsLDtmT1HyijyXccwaAPs7jxmWFKTUXPs3836j2o9LQjUSWjzPwTo61gFPWNcfWjEkuznsFAk8Cx6qpjShyFaSSZWUARDN33symO2LQJ-ybqF_SL2FTfpdO5bE1aJueEDVmywzExWfMpTRy5VCNfYfrOl00ssEACL-OsxjbQY0NvRUkd1jPgriLtjdlAIp-VbVXepdJHaBsbZEJIvXww3MWEGINZMRGLrazvR2ZC6GqCbKjPoxDqhtnvwwBHzichGa695kp011UfHCPmRMjm0ijOp9WHITbcZSF5Z7kKSNp-hCamZTUjafbaBciSZccQ-PyvFPEfEG3bgC5_ei9Al-DtSKseTfC7mCuugDBLJMApA6ToHtO69Y1GHl68Wd6ztq72vMZvr8KDG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 13-Nov-2027 18:05:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 15-Nov-2019 18:05:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4286647386%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Wed, 15 Nov 2017 18:35:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Wed, 15-Nov-2017 18:35:52 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510769752~id=8ef302a9f27bfea2289688318a5be4c9; Path=/
+
+INVALID
+
+[11/16/2017 7:23 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=YCFL3CZCFH7SQ, address_street=Orchideenstr. 78, payment_date=11:23:20 Nov 16, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=85049, first_name=Elena, address_country_code=DE, address_name=Elena Bauer, notify_version=3.8, custom=199, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=ingolstadt, quantity=1, verify_sign=AuRhTu8Q4IYMV6C40qo6RyBypp-RAlImojdECIwCMx5IEnobsTIPcc4u, payer_email=zeor@caseedu.tk, txn_id=1F129038S2669044A, payment_type=echeck, last_name=Bauer, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=f82886bb9, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: e865f17b8ae3c
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 533
+Date: Thu, 16 Nov 2017 19:23:31 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Sm7P6nEr3XhCT_kiZw11N36GiHBlYTx3XEcBmpgf0V1-XcKmOprszCnA1qKiyS6h9dvbwerY3pDJekK_P4GBLtYpGxVbNWupitX6azstVRGpDdST9cTgMAXWle40goYxQ59K_sef-4P54qV5FStQRq_4NvHripCkZW2z0PdIo-pVhwySVKmm-us-GKb_2hiPQIzP2p9CtyBaR9JowlDXGg0YLzgijYkKlIO9N-V8Hzr8wH6njtGF6YiMzUV2CQ7f_1Fx6KUDXjRjDxLjujrtN4BwUvK9NmQvBwBL1ENQp-OwAkkF23zOAOvJbfbaipVdkdLgoNTanO3aDVJlAPMraAtk1rdT4ja5AhS7AvFxF_m7NVTf1UwJH556N5VlmtBMlYoikatmZxzP9XxDnI4y5K23s14z4wCxtli_Lako6N5adB8BcDJDHOA7ysS; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 14-Nov-2027 19:23:30 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 16-Nov-2019 19:23:30 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3001355610%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Thu, 16 Nov 2017 19:53:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Thu, 16-Nov-2017 19:53:31 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510860811~id=cdcd58b6bb2a7c65213623531e635376; Path=/
+
+VERIFIED
+
+[11/16/2017 7:25 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=39.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=YCFL3CZCFH7SQ, address_street=Orchideenstr. 78, payment_date=11:24:59 Nov 16, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=85049, first_name=Elena, address_country_code=DE, address_name=Elena Bauer, notify_version=3.8, custom=199, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=ingolstadt, quantity=1, verify_sign=AdtqP3VqU1CQXxyLpGMidAf9wutHAfaBfPleiFvv7bjGL4HrGN5nFVxO, payer_email=zeor@caseedu.tk, txn_id=29L02651CU3319945, payment_type=echeck, last_name=Bauer, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 50000 Coins  X $39.99, mc_currency=EUR, item_number=10034, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=6756fdb4d954e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: e3eba9fa684c6
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 436
+Date: Thu, 16 Nov 2017 19:25:13 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=MDpBO8W9GwiUPifIZ0la17psUbjBs1wCTpOdWRhX3teEw1zyPehi1VnCUPvzGYtxaQFvlBGtTIj_FbWfB8ussK4-tiy9ltPMlSjDKOZquqrPvEbQtOGxwRU1ucNPHD9D2uHBs_G2W-uHpaj0tDpqBcMTj17ADtyaZY_Kjsrr3fXSoFmvC5e4DU87qg1Rmp1pqtDgoNIiJ6fuImHw0MnfMLYiDUXpd6k--UayxBaZ2aUpvmq_DnJ0weVicrm_thDTONLnuG0yY7FPq_58kZ8S21BJG04tsTamdLa0hgygPMUpoCqWXq6nZlc9N3RkwHchAjUuqzTow9R9n3xSsP6IcwACz3OVn8KqxLZXS4N2aIWHpwjvwrpLH0cRe0ZWnA0wWSk1agD9f66Va2aX8n1IolgNMTgj6_Ut0SO2SIr0KL4cqZoBYsMorCykG4O; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 14-Nov-2027 19:25:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 16-Nov-2019 19:25:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D434507098%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Thu, 16 Nov 2017 19:55:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Thu, 16-Nov-2017 19:55:13 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510860913~id=9174ee2f53f48eea3c7c34fc5615b577; Path=/
+
+VERIFIED
+
+[11/17/2017 4:33 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=ARUZBF8L7RQHY, address_street=Ruschestrasse 177c
+39565 Stendal, payment_date=20:32:57 Nov 16, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=79677, first_name=Manfred, address_country_code=DE, address_name=Manfred Kellner, notify_version=3.8, custom=9360, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=Bllen, quantity=1, verify_sign=APAkmj80lGuWRFpp1-3sAFcUQqlkAZ57wH3Ssm9AEzGN6qcIICJM9Gmy, payer_email=lidaziv@mobilevpn.top, txn_id=7TS584447T645815K, payment_type=echeck, last_name=Kellner, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=40acf8fe44066, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: e96b4e41b0495
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 45
+X-EdgeConnect-Origin-MEX-Latency: 523
+Date: Fri, 17 Nov 2017 04:33:27 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=9PCggRTFhDEWart4Wev53ZT1gIhrLToK8_o7foME9dkOsUoufxAyBl_ApH11Y-MCBvX06k0st7HDPJQi71mAMsbZwURIzYoA6K-tipSZp5H-cT5hA5qszzCfHMibOthmSBR5p631IKMdcDth67K2S75GMhVeg5LQ1HJKGv4qCLlNnzX9EYubJLTLaxUXDUIkbLbVLoKpjBVtMPRiX-CJdTOklVOP200gz0DRxs3YsRj1HXM2y2_q00KZ1CJw0B3xfu9296Jo0V5UIHZPQYjAmVTkTNe0BlnXsgQ_M4rdeWb-nd9-jLkfyeh24oHAKMfT5gzIlmqnFQaK2y5yiadearOs8hQXe48EOlxrnGURUdBr22L-hR9HhorcRDO5iSuPKotXIXUphSE9ooQIzOStHfq_-aZV2zJUJL7rx4ImTe00wIJV3Cl7K9dgDLW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 15-Nov-2027 04:33:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 17-Nov-2019 04:33:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2523270746%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 17 Nov 2017 05:03:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Fri, 17-Nov-2017 05:03:27 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510893807~id=acca1e4da167a2ad13d84f211a2388a3; Path=/
+
+INVALID
+
+[11/17/2017 4:34 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=ARUZBF8L7RQHY, address_street=Ruschestrasse 177c
+39565 Stendal, payment_date=20:34:29 Nov 16, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=79677, first_name=Manfred, address_country_code=DE, address_name=Manfred Kellner, notify_version=3.8, custom=9360, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=Bllen, quantity=1, verify_sign=ALBVzmhXYhTP9z.oG2zUGyYAJ7ZWA5hqB-d9tdx60GdzI.Xh7q0MXWPI, payer_email=lidaziv@mobilevpn.top, txn_id=51H79310T3197324T, payment_type=echeck, last_name=Kellner, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=b5494a5acef36, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: af02b4619a984
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 23
+X-EdgeConnect-Origin-MEX-Latency: 539
+Date: Fri, 17 Nov 2017 04:34:43 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=WoYnx9xcU-ZJsSxWcULWXBxSiLhjOu2ihnhYR2lygBPzVXJKmrBjGSSQ-P5VAO4s26LLIo4mgiExRU0jHhkZ6u_A5eqNNxdCk4IhLOqWf4TupPVLO7dfZLensHoekcb4LwH2PHVNnx8SczkvVJESs5fqpmOVkXk986LcJGudNppeKB0Bxt0vGhqbPaAa2OFMpb4573vX6FNh4mY55J8GgQPj12KaY5RwV7vVB_E9GxAHNmS2K3B97_8aLtT_oNJvX9Dm2hCcf4-dYwdOdOBYsdUuj0EVaJ0rtO6n2nNKUimvJm5SF6XGcxz9PD6misP1nt3nxRoqmYS2CSufPOPILzP0MCvhn_g3p_h7vo7BzaVrw4jweDwe-OI4XNKN_mCqeLSQYBE6fYROxGf9QIHF8CmObnO0opMysqqfnyvo05IRJSCPkfmIuSK0FAC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 15-Nov-2027 04:34:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 17-Nov-2019 04:34:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3798339162%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 17 Nov 2017 05:04:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Fri, 17-Nov-2017 05:04:43 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510893883~id=339679e01842f5b98d2c5dd7c7fde1f2; Path=/
+
+INVALID
+
+[11/17/2017 3:14 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=NEGQF74QF9HQG, address_street=bochum, payment_date=07:14:16 Nov 17, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=44866, first_name=Alex, address_country_code=DE, address_name=Alex Alexx, notify_version=3.8, custom=2844, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=Parkstr. 124, quantity=1, verify_sign=APOmXky-IF.WRDcw-n9uFgisZhtoAtFmiqMrgXd2qMlnoveaB.oP4F4F, payer_email=hujod@geronra.com, txn_id=0LX50149BW9408724, payment_type=echeck, last_name=Alexx, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=57843d902e50f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 435577e18c5a1
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 1
+X-EdgeConnect-Origin-MEX-Latency: 418
+Date: Fri, 17 Nov 2017 15:14:25 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=9S5rgGyEI2Ts6ziHhvtn7lZ1a0dOl_GjGv5JF3jFNH2NeXSDbb30g5l-GlBOtikXRa0-b59YZmyk-UtX49uoQ8uZErcYib0BI0jlW8INjtQQOZHFP3k6EPjezao5x3GZ_xi4VgJdRGHbNJyG7YY_HrpJGmXCmKMCs8Qvvrl5ZPUyE4aV3uaWInimEAT4XseoTbB7IxfbAcVnv8uB2b_9c7euL8REV8dNrCflbGGnvqIp5MA47gaTGEhYhpYursgMsy4YbHXnHW3D4tRPkjXsAISxNiSGoRa_flNPSWr4Z-afcZmDs9PdToOeaeJ2xd9p5f2Lo76f_NV7ygqKDozL_mqpmAUpOTSoLBBsSe3-zgPSeC3CqJcPMGtPo9WPUIKGRxUsMnyfodDng8QU1SV-b274dvX8CG9ysr--1MkPEkLjcH9kM5D_qphQo5G; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 15-Nov-2027 15:14:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 17-Nov-2019 15:14:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3522956890%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Fri, 17 Nov 2017 15:44:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Fri, 17-Nov-2017 15:44:25 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510932265~id=c4f95a8185bd0bb4151da552c8e63173; Path=/
+
+VERIFIED
+
+[11/17/2017 3:15 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=NEGQF74QF9HQG, address_street=bochum, payment_date=07:15:12 Nov 17, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=44866, first_name=Alex, address_country_code=DE, address_name=Alex Alexx, notify_version=3.8, custom=2844, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=Parkstr. 124, quantity=1, verify_sign=A5qSb6gahSF2mMaPi8l.oN21VzKvATqoHzRs4mWjxxch6y.sZmOtQuEH, payer_email=hujod@geronra.com, txn_id=6AA49324RX052415A, payment_type=echeck, last_name=Alexx, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=c65c7768ace9c, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 676ded8370dfd
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 583
+Date: Fri, 17 Nov 2017 15:15:21 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=UR13XCqJ5U2x2Q3lrfVJmxZ3sA53E9ISi9hUZnANjFNQziNDq3PeenmPNX03K-NgN6cj35U2s4eFx9U2NpZncnce2ZleOTxVUUXx8BjYvjXdS9JLkhuftp5sMLkuIyICS18Y6b4TYbLA0KROnZ9C7h0S-UXba-HipCMsiOPDiZgy3Nov4dXPuZX4aYaC-shXN0-n9IMsuVxndRndokd2-7Cp47f_Nnmf2qSCxo5nuTUpobnoWRGV8kiSAdKzA2Pna7xYltmV3sz_y7Szc17RcUjgGyFGVafS1J7TS3qo_k8_uwEBc63Ho04JV1ILpb3ZBFA1VpQHyqADyoFoHnOJ575T8lcMFR3vLYawchaG9dGzD6utqbtiwmnunq9qhMP_RbL7w7OUui6FN0XXtGb6QrC0WHLeeZaR9fNtRIBRGs-7sAu98QJ8TEhPzde; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 15-Nov-2027 15:15:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 17-Nov-2019 15:15:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D150802010%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 17 Nov 2017 15:45:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Fri, 17-Nov-2017 15:45:21 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510932321~id=2083e8a79353afe38d26c7126405dc8f; Path=/
+
+VERIFIED
+
+[11/17/2017 6:18 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=14.99, protection_eligibility=Eligible, address_status=confirmed, payer_id=DKZJWFM5NM9YC, address_street=17 Melitta Park
+Kildare Town, payment_date=10:18:01 Nov 17, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=R51SK6O, first_name=Derek, mc_fee=1.16, address_country_code=IE, address_name=Derek Delaney, notify_version=3.8, custom=7614, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Ireland, address_city=Kildare, quantity=1, verify_sign=APBOqi5FdqcscL7m07Upd-IfC1aNAvQYgNgW57O0N29vatFi1Eq5JxzC, payer_email=delatron@eircom.net, txn_id=9DW87916GX487572U, payment_type=instant, last_name=Delaney, address_state=Co. Kildare, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 20000 Coins  X $14.99, mc_currency=EUR, item_number=10032, residence_country=IE, transaction_subject=, payment_gross=, ipn_track_id=5499cc4fa7b9d, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 21128a779e3dc
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 541
+Date: Fri, 17 Nov 2017 18:18:21 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=k_6BgIyXAZ0-A2wud3yOT71NDr7M4zwSM6VbCU-esKBOkspXyIq3qt4x1fh3obLmqdC6g6y8uXsk9Gj91N0OzG0Yag6K6x2Zbee7YnLjc6COAR3-eUr6iuSyCtmn-oWDegBgLKhlutnV0emJWVaG0I_RbuzxdGPz9ayb70nOXNY6T4JDIQ5NTY7LEmY2v2tggWN5sMwA92HEq-51fZJq0t1ZkjEfrgb7KlJdq6n1ZE-chz1fYedX9zesjev8a8awe12fhvE3y0YYzcFC1FQgJ9isrCGPnth-PJJE1dtZh6yERQ_0deHxCXEG52z52yhj8KoTht-26gy1cWMPIeAYkjwZa97lk4H2ppPHk-3e1OZ2QyFMPLtGJuvvdk6Gf6zgzUrJD9qp8Y8bL7vxmCmIrIKMjz9OniscGKnQ9T6WvYwnuWKex2jJLNJBsMe; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 15-Nov-2027 18:18:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 17-Nov-2019 18:18:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3961982810%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 17 Nov 2017 18:48:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Fri, 17-Nov-2017 18:48:21 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1510943301~id=185794e74c3787acff9fd624822f57d1; Path=/
+
+INVALID
+
+[11/18/2017 11:48 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=14.99, protection_eligibility=Eligible, address_status=confirmed, payer_id=DKZJWFM5NM9YC, address_street=17 Melitta Park
+Kildare Town, payment_date=03:48:42 Nov 18, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=R51SK6O, first_name=Derek, mc_fee=1.16, address_country_code=IE, address_name=Derek Delaney, notify_version=3.8, custom=7614, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Ireland, address_city=Kildare, quantity=1, verify_sign=Aa2I.iRJ7UuTxlxSW.omXW01cyQbAFLOv.-RJo-rmi.RgZ69aI9YUn9G, payer_email=delatron@eircom.net, txn_id=2AL32977XY105211G, payment_type=instant, last_name=Delaney, address_state=Co. Kildare, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 20000 Coins  X $14.99, mc_currency=EUR, item_number=10032, residence_country=IE, transaction_subject=, payment_gross=, ipn_track_id=8d730ff8ad031, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: e37edb1e9b99
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 482
+Date: Sat, 18 Nov 2017 11:48:49 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=LzrsJGyXIiCjAePrX-ksuH93bfLBNkYSb77bfkbbgvLkSfoCcl7pga8vfhTNWZk2AQehArgNAy4TGtwyVp7zbtu4zBdbxGPTJimbYg5HEa2Fk_nDT6ELncNYAMpUf8qRtfbP9_PF_vhBAFH8SIhRWQXp8RdqoGFnuAYAXBp9ppfaLLYw_2D9tPmwkjex9Z6_JRDcf9P4pQLkkD3SyfxeV98fk0Ijhp-W73h4iKqBtd7xmv58FIh3tHCM--96WIwjdqn2wFKKNn7xNMJDK6ion7x_bCo_cUy6Er4b5XGhsjwT5CGHDb_76CEvTM2_ldDamSslDp8veVyW6x0F-aCazUjF272HIBRyreD_Dg3D79lPcYNJAWRa0zXqY0nFdDwp8R9prGuo61Mwpg7a_NuWz54Yq-QpPH_STFSfp6OOmq4J8E7212pCwhfpmdG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 16-Nov-2027 11:48:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 18-Nov-2019 11:48:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D555618394%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sat, 18 Nov 2017 12:18:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Sat, 18-Nov-2017 12:18:49 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511006329~id=3b605e4b4a71822bc7750f92e5fbbf2a; Path=/
+
+INVALID
+
+[11/18/2017 5:04 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=7.99, protection_eligibility=Eligible, address_status=confirmed, payer_id=MCLH2A4UQEVCS, address_street=Gardavegur 15
+Reykjavik, payment_date=09:04:06 Nov 18, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=220, first_name=Johann Thor, mc_fee=0.78, address_country_code=IS, address_name=Johann Thor Saevarsson, notify_version=3.8, custom=6217, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Iceland, address_city=Hafnafjurdur, quantity=1, verify_sign=AFPtG1yOZrnJOhDkWTMGf9aMhCNUA652OdCzDxeiTTzCk9EhXk0FNyTN, payer_email=montendew1989@gmail.com, txn_id=2A0966168X625060B, payment_type=instant, last_name=Saevarsson, address_state=5767, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 7500 Coins  X $7.99, mc_currency=EUR, item_number=10031, residence_country=IS, transaction_subject=, payment_gross=, ipn_track_id=5e99bf2a5b8f5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: ff334da651879
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 3
+X-EdgeConnect-Origin-MEX-Latency: 522
+Date: Sat, 18 Nov 2017 17:04:17 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=GuIskqeVn8oOKE0OA1DkXvNAfyfb7OAHZ9Un8OjYRrdKWM6Ofr7qmCvBUXcTu0Al_C-V7L4Mi_sHU0pECiEPgQhjqxnmhw_wlBywNOrLVCnFp0V0rfdp0lfviUYtyN_voW6JMLesLPpoZp0hbpsQlI1_u_JQyOft6oD_S1MXGS967wCfz7cwIWsaTf0zZpdkf__-RDUBXdz_htfDXxLHpc6Q_7u2LnmlaEOMu1ATpMMqlEbwi-fFhNrv4N2WZdasiaV4RhkcSW4_0jMniMVANbcP404c0bQNkOHDhf8dg3ElquIRbnCa4PFG68E7hSg5F-8YJefIvPkiuTR3EOLKJWJrOzKB6EZNjMkEVk07u4g0gJeCxOX2IMqRqZDMmk84tE9UxTFtsdSYCNxaCem8z7QJNxULUsiVK56oTGKspkp-xsgi7qd6P4f8RPa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 16-Nov-2027 17:04:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 18-Nov-2019 17:04:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D292032602%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Sat, 18 Nov 2017 17:34:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Sat, 18-Nov-2017 17:34:17 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511025257~id=d7abb1aef5a1a519a64035126d4cc8de; Path=/
+
+INVALID
+
+[11/21/2017 1:20 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=14.99, protection_eligibility=Eligible, address_status=confirmed, payer_id=HZAB7G7VC2C2N, address_street=Blk 466 #08-180 Segar Road, payment_date=05:20:26 Nov 21, 2017 PST, payment_status=Completed, charset=windows-1252, address_zip=670466, first_name=Kia Chee, mc_fee=1.16, address_country_code=SG, address_name=Koh, Deric, notify_version=3.8, custom=4524, payer_status=verified, business=angel-ac18@hotmail.com, address_country=Singapore, address_city=Bukit Panjang, quantity=1, verify_sign=Ad.DXquOXh6Qs8j4FgH6bhKSxEaWAWhbO98ZtXsZH.Ej66AXo-PTPXVk, payer_email=kohderic@yahoo.com.sg, txn_id=6LC81410T6191242S, payment_type=instant, last_name=Koh, address_state=, receiver_email=angel-ac18@hotmail.com, payment_fee=, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 20000 Coins  X $14.99, mc_currency=EUR, item_number=10032, residence_country=SG, transaction_subject=, payment_gross=, ipn_track_id=3aa4904049d11, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: a1dda76ac962a
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 476
+Date: Tue, 21 Nov 2017 13:20:38 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=9n58vuluTcRm2QxR_KgdOdbsvmRCmnjlb90Hz8klQcuS2aFYqpAInlIgpQGmKPlgjaOckt1GOHoxJOPrK2ukuXpyy04Iy6qkcNJlprrqKHR9Sflw5aNk2XLflHx0or2wfv0hq4ZxR5ey9rsFMXiFBo51BWO6miJIldsJfgQ6eZ3azvSwdUNmpCrGP3NWOKh0HDEB-dE34-TOy7y8VVXpYG4yW7eDGNbc8zYM3eA4JRHGfpirCYh-jjmD_S-vZ7XsraZQa3fgJ3zxjumbHsgTwU0iU1u2Qequ3YJjyFOzz55bOskLhMWwmPOkEMmnfJXQFcX6odr7CfMzHqqnDta6AxjNRU9qhjekfdos7vPF3WChXuXNa6e_vR-8jR7Sfngptext12LXFGjN1h16IKu2jy7eNpCD0eryylo2e-zVsp1hNIwa59KPRS4Mi2C; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 19-Nov-2027 13:20:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 21-Nov-2019 13:20:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D623383642%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Tue, 21 Nov 2017 13:50:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Tue, 21-Nov-2017 13:50:38 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511271038~id=2e1701d07e5cb46c68d61120b8ebaba6; Path=/
+
+VERIFIED
+
+[11/23/2017 6:07 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=TJPMPD7W7H49S, address_street=Ingolstadt, payment_date=10:43:13 Nov 22, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=85003, first_name=Hich, address_country_code=DE, address_name=Hich Bin, notify_version=3.8, custom=10711, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=85003, quantity=1, verify_sign=ATYyGUlAL73mrs0id0rf-pn-jyQJAij2u60fS23ePofZaOMwv-7LdLry, payer_email=durkihedru@deyom.com, txn_id=0V843571XJ214983M, payment_type=echeck, last_name=Bin, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=37cc02b676a92, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 12fe9c2b6b8
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 3
+X-EdgeConnect-Origin-MEX-Latency: 461
+Date: Thu, 23 Nov 2017 06:07:20 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=igBWXgF7c9gjntp4JLg0Jpn0areLJHddd9tKdm-YKaknR0IgSc9xulQVBGWP5TkhoLwA4O_M_zsyD--zOlrtdzEDrbfvSGk5Wb3gUxWp2UQ-fF1Dh4J3jUIVsS5e9YWddHIPz2c9PVgumy2VmOJ3M2qaXJgSTnLdZ74NLHOrqC6f189YJae-KU6NgoifLtePD18Ko05cdaj1SIJlYdZpAsuYW3PJg2qrB3ucd1Uf9J9zPD_y6gunP-o2HLKbzgC1wT4WxoY9Mbp6cmnEt9sZS2y3YrGDj-UG2vXN2mUlJIsem_fb7zPr78zZJQlTy7D_4jIUpQoxcOA4rPHhRLTrrjFZ1RHLvPww6fXpXzy7DhsOoocj5bbXimlYdJBeCY70hCniBHeybQr0G8CFSa8Oxbl0xXoGHHz1nYBr2HYc6zvxHEoIFudJsaOmMhW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 21-Nov-2027 06:07:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 23-Nov-2019 06:07:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2556761690%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Thu, 23 Nov 2017 06:37:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Thu, 23-Nov-2017 06:37:20 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511417840~id=8947076d99e59a72103d497b08095b4f; Path=/
+
+VERIFIED
+
+[11/23/2017 6:11 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=TJPMPD7W7H49S, address_street=Ingolstadt, payment_date=10:47:37 Nov 22, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=85003, first_name=Hich, address_country_code=DE, address_name=Hich Bin, notify_version=3.8, custom=10711, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=85003, quantity=1, verify_sign=AwiyJ6zy6qSvd7SUsUOpT496bCZKAJI23oHhvDU0WMugUYGsM7bckUMP, payer_email=durkihedru@deyom.com, txn_id=83W871518T7511211, payment_type=echeck, last_name=Bin, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, mc_currency=EUR, item_number=10035, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=fcf0c7c54ec44, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 1cbd310e6c0e7
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 492
+Date: Thu, 23 Nov 2017 06:11:39 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=4g2hFKO9aNAgx1gHfSJk1yA7iNFqUgOWJY1fS9lw2eiwhwCYRynMV2GutIIuOZPDS4uJosYplJ2AkbW1Km9880f5L-0xtC1gPpIO0M6_XvN7NHP9uRgsfrCXOgbCAx5S9hN96BbD9CjUegKg4hiEcKS-Ey986qKJa8VeHowg3zNwGiBNkGNpb2SmWJ8oZkZpQYiw6g26gmUh6611I4zDWToL98jC46Puj2opOiTA5r1R5RvD8jqaf4eHpgsVuK36D-UDtORWiUnI2HxmUoDcDg-OtWkFcA9x2mg_v9PGebInFSWEGx1CYytvcuef-Evh-dWsWCv9bOlEfWZjvAPEozLeLdO_W6NzUKBeqxtOS0MBb7EWJ7UzqgH90zkvrgHU5ZbJvdwMbBKGX_Stc5E61phF5zTUwLZlUPj73os5DJptGHvzsR0ectayIGy; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 21-Nov-2027 06:11:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 23-Nov-2019 06:11:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2607158874%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Thu, 23 Nov 2017 06:41:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Thu, 23-Nov-2017 06:41:39 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511418099~id=01be101b77916e43e59dffc03e2cbfad; Path=/
+
+VERIFIED
+
+[11/23/2017 6:13 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=39.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=TJPMPD7W7H49S, address_street=Ingolstadt, payment_date=10:48:53 Nov 22, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=85003, first_name=Hich, address_country_code=DE, address_name=Hich Bin, notify_version=3.8, custom=10711, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=85003, quantity=1, verify_sign=ASYONNdgCvU37X0fuKyqS8e..90AAh-C2Tb2F.MM7GiOkyydVHZt.h9j, payer_email=durkihedru@deyom.com, txn_id=85P054963F814825C, payment_type=echeck, last_name=Bin, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 50000 Coins  X $39.99, mc_currency=EUR, item_number=10034, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=40b1a6327d943, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 862f08aad0732
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 599
+Date: Thu, 23 Nov 2017 06:13:01 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=qeexckEOdkktJfyNqcTOFvJHnlRk_9o0ynM3pY_fxFMQlUM2gZljqnt1W1SioH22lMlY8F6wbEki9AldzU72bh58WmOu2A9oc7wXW-zPLsQ5FgzyavRkguWoqQHVx2NYGZJNGAJ3gvetANWoKV5HOjzMbawS3vV95t1aRnYVrgY3CIMZVVyGwE-ADw8OgxlGXWFfvVWHAs87m-Hr9kObzwAGMQ8FmidNLbTxC13QznZLlS6LrVauUxyCIeetW_lMzAVW2RbH4zImO7ZLTcuNrPfifun4TwGdTSm5KgNW5ekEVxvPw0Sbm1JYpjMupYQG0dwU6oNa7202y5c33AMv3f9jmKL8DQ5SsGJ9emmKJMwtfOTH8eI1gbhb65_c8LyiJfdlgtjOj699FKYoNxHnQYGOWmn5O9EADGxobv-X6k_RZibQ0KPfIOD73Ki; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 21-Nov-2027 06:13:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 23-Nov-2019 06:13:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3966113370%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Thu, 23 Nov 2017 06:43:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Thu, 23-Nov-2017 06:43:01 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511418181~id=94f5b60b52b63459b4287b4145678cc8; Path=/
+
+VERIFIED
+
+[11/23/2017 2:27 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=7.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=JSXASMUGTDJPE, address_street=Krestel, payment_date=07:40:26 Nov 22, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=47804, first_name=Alex, address_country_code=DE, address_name=Alex Hyl, notify_version=3.8, custom=1227, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=47804, quantity=1, verify_sign=At0rdseUC10JGRF-PWPyJbz25FkaAp9AiYRkWE7FC0qvL6gw9OtYalhc, payer_email=1237@zhorachu.com, txn_id=12X846089D727722P, payment_type=echeck, last_name=Hyl, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 7500 Coins  X $7.99, mc_currency=EUR, item_number=10031, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=c41c4850c6bbc, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 2d8896fcea825
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 566
+Date: Thu, 23 Nov 2017 14:27:20 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=yC0gtiE1l8Nde5uBVcEeWTbRFiujnclFYzxvTvEdDI2X5aUmpDmQucJu78OxxSvhfSeVSI8h_5uEPDQOEDjjLgJwO1qe7OrCliD12D17mhswlyhh450tpaQL0c8lwRfbsFAZBCrdkSRGBIAX4Z4j43TLIzUTIKF9TZe-Q3AOHLDCqDkAGz1fMNl1nk7cAunEiEw_4wM6BD1Bx0vXmEgY46zUxx2bbkoOGIArsfcPkgouvEVDcFfkAFVNfBBbtRBYtfOD0DPrLHorGQ-OOsMQBLXwbi4WFWnezqNYnZ3uYGrAazz8axaMUosezSIElEEIA4gDIV6UkpmIlRV3l7rTHL_E_4Zbx2891B2anwpRKjJ48NP72rW70i9NknqCUrNOM4S_G_L5COulFd4aLaz2HsdQpZ2fukTJ4kcR17QI6QgyJRf19drBOadn_mq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 21-Nov-2027 14:27:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 23-Nov-2019 14:27:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3352958554%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Thu, 23 Nov 2017 14:57:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Thu, 23-Nov-2017 14:57:20 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511447840~id=6aecdbb827da899bd49a7a8b69fb9ee8; Path=/
+
+VERIFIED
+
+[11/23/2017 2:29 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=7.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=JSXASMUGTDJPE, address_street=Krestel, payment_date=07:41:36 Nov 22, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=47804, first_name=Alex, address_country_code=DE, address_name=Alex Hyl, notify_version=3.8, custom=1227, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=47804, quantity=1, verify_sign=AlU1J5AAZGLwr-ZY2RQkHmhBLB6eAo.Ekm3woNDNdI7HaZafhU-o4BYy, payer_email=1237@zhorachu.com, txn_id=3L874622PA024412T, payment_type=echeck, last_name=Hyl, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 7500 Coins  X $7.99, mc_currency=EUR, item_number=10031, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=766254e8b6310, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: bf843332f1ca7
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 573
+Date: Thu, 23 Nov 2017 14:29:00 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=iqesNijeWCe-9vXiXFOFvJl9X-KmQyyBZjSLli94-5C6r_B1QPh4sGa0KWXOOTWxy-YaW1RWQMnJLT875LGM2K8i9phoihfTTSi9rPsqLke3khNp9LebmLO3CIVQCDYtnYbyTgGM1t-GQ-Q9v-hK54mRHjmDY-dB855Zal6efknWkB2oe02JVMdyJSu41hZ5EulkWPrtEvJTYOMOeTXQw5IxHm8d-LmgEsvVfOjD0H_jG-huUoRErytDiYtK4geqQPzcT17PrxXNgdMppEdHDFHGlvRfYLR15jAuGVn5uvE5uwxybDoGnUeNodJRjMQQQuQLcteO3kj_9VmPtE3mC4ZshcOg33JJ0n8B-p68jXGvck7xSG6QjBxbVTwOLlKqUb2vNx-LfFk0nCIHLlhlA3MAy3b8_K61WPU-5TkGaxXIVeI8MN0ZdrLAs_y; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 21-Nov-2027 14:29:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 23-Nov-2019 14:29:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D735778394%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Thu, 23 Nov 2017 14:59:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Thu, 23-Nov-2017 14:59:00 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511447940~id=cdd8151c6e37f1fd4d27f31bc88ddfb9; Path=/
+
+VERIFIED
+
+[11/23/2017 2:29 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=7.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=JSXASMUGTDJPE, address_street=Krestel, payment_date=07:42:27 Nov 22, 2017 PST, payment_status=Pending, charset=windows-1252, address_zip=47804, first_name=Alex, address_country_code=DE, address_name=Alex Hyl, notify_version=3.8, custom=1227, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=47804, quantity=1, verify_sign=APPYJ2SxhIU5c01zXb.3PzSzvICMAvWI43.d1lGtLAH-ExBmWGnvvILJ, payer_email=1237@zhorachu.com, txn_id=93C659585X383474H, payment_type=echeck, last_name=Hyl, address_state=, receiver_email=angel-ac18@hotmail.com, receiver_id=SQHP5H6Q4SKF8, pending_reason=echeck, txn_type=web_accept, item_name=Duex 7500 Coins  X $7.99, mc_currency=EUR, item_number=10031, residence_country=DE, transaction_subject=, payment_gross=, ipn_track_id=af915ffdefadb, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: b046805c0d5b
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 482
+Date: Thu, 23 Nov 2017 14:29:25 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=VWxzeQfAG9vFg84qMcBe3BHVIgNoEJicepiZAW7Kaqzap-9EA2y1FVsFJPd9Ot2Ic6K-LJyhnz-87052MONceKoNWHvkG4COFNn5FsXnBkYEcWJccDilgepLGxaYK9soUcuogPnGBFiTEBzIV7gvJCsBWE3E61AzzZlaH1jrOh3nxFzlJ1LYfr0G4l-StdafFTDV5H6fx7WUgs3J5Z-RG3buOI-B0G6R5bCVZS3gkxS9vwxOlBJV9PeG_4hLgykL2IPYbSiVUaGoSW1KjLW1bJMxEUE49noAb3k7-sVGiE6a78cJVwl1GhdPSkz35he-oNe_UKmEnRyQtO5vOA061tOKjHYL4-5fuxnpqUNOCFTlTm8xzIbpzjVO8ZdtJdX_BADVJcglktyBeetFUdi4EpHew9etdqhx1SGeeOayOcYX4jZQdKiTJiM8q9i; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 21-Nov-2027 14:29:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 23-Nov-2019 14:29:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1155208794%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Thu, 23 Nov 2017 14:59:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Thu, 23-Nov-2017 14:59:25 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511447965~id=b9003ecc29303797f1c91aebaeda3a29; Path=/
+
+VERIFIED
+
+[11/24/2017 6:36 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, tax=0.00, address_street=123
+123, payment_date=06:04:41 Nov 13, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AET6qK-1T8sCpmoCfcjT7YBvnJ06AQ.OvkoueOhQDcfpXJFQjbXwoFib, payer_email=head2429@gmail.com, txn_id=9TW64742TL653133S, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, discount=0.00, mc_currency=EUR, item_number=10035, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=630ebca5a5ca1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: d30222aaa419a
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 559
+Date: Fri, 24 Nov 2017 06:36:17 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=9B_Z-JCc8-mU-cq4ew4nGmfCVKROPg1Hek5T3gzY6vSkcMOAUiz07XgzoUaIoCBfuAA3SI0RJ3b7B3KjgwjmZ1rc72pYXNC2vOsZ25jgz1S-dbJ2RLtqaG5rppcgzKxhMjtp9hNgOBIht0a_bgdonZL1V1bICRpLIMd7x-bCy_aGcqG90ztWup4dtzi_19eHoMxgAJBOXrkFX5Zd07O5u7rf2wFpqT5dzfpX78PEeLS0okGjva9b-k326KBQh0XDq18EVzEHaN05rfT7oTTdUnCILPhElX4K58G0fsB9SZGjsWXWeiap-1NskyyheFkSoCC2KIPHS_ZknwAkWZy2i2WM2snKZ7fY8e-zIsiH0l7fUXtpjIFrHvedU0fbwsLNMBIczm2imyGyHIddkXoyPkdsyNPQ6GzbzPZ_Ylh3bvYdXn-G_MM58PW8HMa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 22-Nov-2027 06:36:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 24-Nov-2019 06:36:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3770488666%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Fri, 24 Nov 2017 07:06:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Fri, 24-Nov-2017 07:06:17 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511505977~id=931b3c1e62bac2d867f2f3b304e3ff87; Path=/
+
+INVALID
+
+[11/24/2017 7:09 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, tax=0.00, address_street=123
+123, payment_date=06:07:57 Nov 13, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AUfhMjzs6CRbLmDMCyvd7ICpX7i1ACkjVgwXN8duipaWZOmzBNqKrsD9, payer_email=head2429@gmail.com, txn_id=9U779456PG234294U, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, discount=0.00, mc_currency=EUR, item_number=10035, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=630ebca5a5ca1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 5310238a390f0
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 4
+X-EdgeConnect-Origin-MEX-Latency: 592
+Date: Fri, 24 Nov 2017 07:09:37 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Y-BXhOcYaNwO4kPVkWcfSUmOrNwZeRPop0PEF-NDRa5frK3q16iHsG1DL1dDaQgfWV4xV9hkTGnSuRK0mPtogX1AjEAH4a87AshVcg9wYAD6q9QtwjWKTNZSgf7MPRi7EA0Jue8DdotlR7n_-xlxMGGgQGo6uuLN3LAkKCqvdcjrIACjqmRkHRL7zzVeNkIPj0TVPqPRem0bEQCLgvDRQtCS1_9xTpl35aAJV4QfhRIy-X_4bTZJwO98yAswGyY3dvwIL35qY2MTaganeknmv_hWI-jdd2BDtNG5SIgHcHvuK8gff5mVeLdrDx2X_WerEw2EETXxrCTZ64wx0CzUcWdpyMqBNVU8rZHK7xyJgbGNzE8o6naAra9iY7dOK0lRukPH4pnhHd2Z7vZ9GezaNqnQcXcqPDaXqrYm0poD3lp5eMnec3sW95SSuUq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 22-Nov-2027 07:09:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 24-Nov-2019 07:09:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2982483802%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Fri, 24 Nov 2017 07:39:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Fri, 24-Nov-2017 07:39:37 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511507977~id=37334ec5207b9d33627f388e9a61b10b; Path=/
+
+INVALID
+
+[11/24/2017 7:14 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=39.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, tax=0.00, address_street=123
+123, payment_date=06:09:25 Nov 13, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AFDo8H.CyjSVAjiud32k8-z2Hh2kAHsNDWx.CAXRT.n8CnboAw8lxyc5, payer_email=head2429@gmail.com, txn_id=49813293C4915941J, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 50000 Coins  X $39.99, discount=0.00, mc_currency=EUR, item_number=10034, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=630ebca5a5ca1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 96c1aaf17959b
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 385
+Date: Fri, 24 Nov 2017 07:14:52 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=uQF6wc5jcOxHl0GRp0Xif_9A0MxMEsPtlIgM8w_AXFXP-mPVRQus-iegCgfuxcKycp3mfy4D-CrEn5jtxedsIAzI_Alx-24uM4ppMNmjuelMlWTb4l7YMBmGPADUPDWbjaeCmV05pWRKm5OwDJLHO3QDJvs6MshCd46sTUL_z1oIjTjERAnbx-rlckncxV6W0d-rymCOTNIvDl6oyoOEbJk49yIjgxMHGrm31N4do3MTYpzC07PTaAjfS77Z2WY9f0S698xlgcBSnfUprHLkwGs9ovpzDkcMKXiXj820wprQIHrfrJBZyDjgrKp_gA_i4dMUWAXvLQBUFS9gjeODcAqDOimHtJPigIXwIUJJZAOdaEo9CDuCDk_IF_vvZYLbxtp037V-l-coB2mCp3XyP8lfgV1bjmeXcQ8aSe_VoElsCjXNOLmwtwc_0OC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 22-Nov-2027 07:14:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 24-Nov-2019 07:14:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3972405082%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Fri, 24 Nov 2017 07:44:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Fri, 24-Nov-2017 07:44:52 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511508292~id=3894d30e11a04b769c3c9a66a9e459b0; Path=/
+
+INVALID
+
+[11/26/2017 6:15 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=25.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, tax=0.00, address_street=123
+123, payment_date=10:05:19 Nov 15, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=9558, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AjsjbrwwsG7B.P6B11FVtAnDVvcbArUeqc-G4y-nQzgNQhY07asbHgoP, payer_email=head2429@gmail.com, txn_id=0BG59146MC0240612, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 32000 Coins  X $25.99, discount=0.00, mc_currency=EUR, item_number=10033, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=2b4f1928c0feb, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: dd3e9059af417
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 3
+X-EdgeConnect-Origin-MEX-Latency: 506
+Date: Sun, 26 Nov 2017 06:15:58 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=TePuTUoFlkOAPlY_k4mBLZgS9A1cfW_RQ6WiUK5_tMHvwXnqLI9HNnA8gGBAXrJPvVG8iW4Tpl6aMRMYgPXXfpTckQFs9myf-r_T0Ao4AyD7q5birF4NzoSaaBCmHJsHbywgQr-vpD2ak72NZrNMzCfZtSI5gxLp3GI1KZb8biBJI6DXqOAxr2eE4sMLhA4L-SSe_ynYEspmZNfRVnsRD22u1gAeBa7B7oqXfEI-2M-qu60-N15l40XUX7p4CS62_KBD019JcL0QEPMjYCGnq35811t34z9vZ9VDUMKuoDx7fGT42Y37tHgLjQLQMyXLrF2PtC-3rZhcJhgC7qfPpGWolvuaDWilkswfL4U9YyWTKtGiNulnx0Oxw3LAq2Zha4g7dAMYM6bvhZmmF-cBQiQb71e8omSD1gcSSY0K4BeJpdfoqK24zIlj574; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 24-Nov-2027 06:15:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 26-Nov-2019 06:15:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D492575322%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sun, 26 Nov 2017 06:45:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Sun, 26-Nov-2017 06:45:58 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511677558~id=218450eabd8a59e7b0677f1342424444; Path=/
+
+INVALID
+
+[11/26/2017 6:49 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, tax=0.00, address_street=123
+123, payment_date=09:45:23 Nov 15, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AAHKcBsH1A.dVtQMHKRDfuI2eGaXA9QDveilF8dwXp029M1T3RCo-pcB, payer_email=head2429@gmail.com, txn_id=9WV58415U9766673K, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, discount=0.00, mc_currency=EUR, item_number=10035, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=2b4f1928c0feb, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 7d143c4a99d5c
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 448
+Date: Sun, 26 Nov 2017 06:49:43 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Qnby5amcjy7pGoVQAK-CRe_c35CJ-qihdgxMhqZBm-ydGpy0w3n5WRkHhb5SK_zpKD5ZDQ6YU5tpPo3JvQGBvRKsEZOkU7nlZF9bJVWWXWiKXWyvbFs6AaX6KFqxO7TdY7ZZlYhesBtFdwuUzq3m8U-q7V7R82PhChvujb8wACibcjWeIWaZQYbwxTJ-7hXKY8-p1Fmtz_q3Am9E-ynNLFidUopb3Wr3F_m_QuHsruoVyH4iHrOIa25-klKiq5480gr3yrFBsXzw4QcfSzRB0cUCIgZ1jHbbFFNasVAlrfLyLAt3be-eadkrVwisk7gY_PcCVtIwkBGjmgfQ6h0_xMI45gqCFq1n7XN9C47lSMZ-LNamAJp0z8o1SH1_ZnP4_XxkmEZOvZ16tnQRkF6Z-0LPD0PuUx8LM3FNjrfEcBQlT9aTa3tCg9WUp1C; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 24-Nov-2027 06:49:42 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 26-Nov-2019 06:49:42 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D107223642%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sun, 26 Nov 2017 07:19:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sun, 26-Nov-2017 07:19:43 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511679583~id=7a3a9370113b1a4774802df8aa4ec801; Path=/
+
+INVALID
+
+[11/26/2017 7:28 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=14.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, tax=0.00, address_street=123
+123, payment_date=09:46:47 Nov 15, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=A8VFhxUife2vbh-AMlCeCFsAfl8kAhMgXRx3Zk7P6hXhBPAO-KUx9Pl9, payer_email=head2429@gmail.com, txn_id=066768890B9899336, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 20000 Coins  X $14.99, discount=0.00, mc_currency=EUR, item_number=10032, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=2b4f1928c0feb, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: f61cf10d5d4a3
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 1158
+Date: Sun, 26 Nov 2017 07:28:47 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=RVBAOziVrkoWCSwQFnCAuav2AuxaXe4EjhA0t4Q8vPmNGiGOcJk1M96GM1_T0WnwJhSnY6pArgrwz2iSIrknizTZWqXKxnrOm5dQ9uXMvy0Hx3s-eNgm7zkQrL_ouuJqLCzoryrEH-bu9ZzUFm9G5wHUl0Ff8Mhw8rRzfRH6Eo3TgooUYDCGTG65FF9ynxb3rCBwgXOj4BNRA2PFZStoRNus4iEZqqmoLiIoMiwrjBxy9sanMpHP0GD_3OWZ3VhHCGBEwjDJNhoVFJMB5ruI8XT2_zV-d2UHFf7t71Nn_0PweUSs2ByC__SpZM-YySHnBrQdaWKGIa6hy5wo5B4XRh6R0hzfcU5oxqWvL0iJ1dl41oZs_pJ2FC6nSIskgSYhG6L4RqV2prclfowaCR_ysi9s5pbawJLuJr0g8kfIGT5mPJVnPgiD6-rnCxC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 24-Nov-2027 07:28:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 26-Nov-2019 07:28:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D778902106%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sun, 26 Nov 2017 07:58:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sun, 26-Nov-2017 07:58:47 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511681927~id=5013899eefd69c626cb98c6f7aaad444; Path=/
+
+INVALID
+
+[11/26/2017 8:21 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=25.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, tax=0.00, address_street=123
+123, payment_date=10:00:31 Nov 15, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=9558, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AN8Dd5MR.YFGnBhpU-UOEhDvucu9AvTL78I4Go10PaG3EgEAboxLDzXx, payer_email=head2429@gmail.com, txn_id=4WE35601Y6075704Y, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 32000 Coins  X $25.99, discount=0.00, mc_currency=EUR, item_number=10033, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=2b4f1928c0feb, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 41d9f0cac658d
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 535
+Date: Sun, 26 Nov 2017 08:21:07 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=AUcytxwS7c6SdnjQQuJcMrxMmaHN4LD_xf3JCxPH-gMBkJorv7mjAZjU9_yYYY39Q2W6WloyjJHE739WnLxJCOK7NGiFJfHHC_ivFzS4PS3brecNCy8gCd79opkvo8g2Ol0qWxBTNX3Nx70sDsb2ntYaYKXLtZidmQGr-zSULsc_q01CwMqj5P-HYHmZlf6XG9iY8GCB0ryfP5vXh5pr7tjDsm2kouscVC8uIU3ZQY1fX2VtLrzapQTRqbs8mGS70omNIwPHG6mwC9GNmjKTrdexmi53onjluGYz6F2yIgTS30P1GiwXXPDERm08Q_SbQkfCzCmOcxwVbFEYz0Jto4lCRuHozxmrvTqZ_zZkuJ3AhxoqO_Gk-nYs7cAsbzv4EjvCkiE-K18aNPSMPz0p-aJ-bLUeAU0lvRyxVxhLwkO0-6tR83rJp1Wul4S; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 24-Nov-2027 08:21:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 26-Nov-2019 08:21:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1920539226%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Sun, 26 Nov 2017 08:51:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Sun, 26-Nov-2017 08:51:07 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511685067~id=11188ddf9d6329ec1cf478a710ae3dbc; Path=/
+
+INVALID
+
+[11/26/2017 8:22 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UXXLRXXALXMMA, tax=0.00, address_street=123
+123, payment_date=09:43:38 Nov 15, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=20000, first_name=KING, address_country_code=DE, address_name=KING KING, notify_version=3.8, custom=7341, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=123, quantity=1, verify_sign=AMmckttHNYoH2v4nQSBEVww70Nx1APHPlFSXITKt19919192.s-FEwXW, payer_email=head2429@gmail.com, txn_id=09F22593C56826924, payment_type=echeck, last_name=KING, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, discount=0.00, mc_currency=EUR, item_number=10035, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=2b4f1928c0feb, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 7b5767afaff9
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 3
+X-EdgeConnect-Origin-MEX-Latency: 528
+Date: Sun, 26 Nov 2017 08:22:41 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=nGSS6UnfssgaC65wHrEBFRY6k39WdH36XmmSuLw5KpDiRd01dt9u_29hr0YBKRi5u44BOuCHUNrrb6PIja_r5Rx0BFt0MIEJV4Khv6GgFOaDLuik98wreeTot0084NBP8EufZON_ie20tXVpQ8B4yGDxiHYiW3CLwp8SkmkT-TmNA_IiGSq_IY9Os097J7VCvtxSQ6-E_vi4Mkgp4LQpe-4JVt05dZXrpKpH4QvLdqpExe-n00gO1jGWkNh_iUCb1YXHf5KClGIeQLxBrtY4mDEQ5TWjX6Qrf53c5OFGH22k9cGaXGl5SWCfxwlbaGUDaEtjAShkenQkE4AVVy-iv0fpT6Ankw6MGPpZExKUzWkJ_KHFBrh9jOXIlFM4RlPBR8a8ozKFw25dm0jGsX_-4GWhgeV-FcAXytWX_NTTuIwM5CNDMY9SepK6p_q; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 24-Nov-2027 08:22:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 26-Nov-2019 08:22:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3514374746%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Sun, 26 Nov 2017 08:52:41 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sun, 26-Nov-2017 08:52:41 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511685161~id=8797ac64fe740ebacf723d361b259f9c; Path=/
+
+INVALID
+
+[11/27/2017 7:13 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=39.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=YCFL3CZCFH7SQ, tax=0.00, address_street=Orchideenstr. 78, payment_date=11:24:59 Nov 16, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=85049, first_name=Elena, address_country_code=DE, address_name=Elena Bauer, notify_version=3.8, custom=199, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=ingolstadt, quantity=1, verify_sign=Atxxug0F4IUZTf3ub5qXA8SQCl4lArHOR2.dOl4GbSYr3JMk-QRZjgFe, payer_email=zeor@caseedu.tk, txn_id=29L02651CU3319945, payment_type=echeck, last_name=Bauer, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 50000 Coins  X $39.99, discount=0.00, mc_currency=EUR, item_number=10034, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=a66c272b6f009, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 72bcfa808a365
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 660
+Date: Mon, 27 Nov 2017 07:13:43 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=s3gpnZfbos7Leg2Rf3AEuCSnRcKwSqJz-apWQ2oVRDhHMOEG1EUo4rHp0hkroHuKn-unbBo89mMbjVhuHHnmgbOjT2gkn9x0x9IOZzVi5ygidNdgomevdU1ClygYX5EW-M2sdjd0-M_SkRcsKlPqSKCa4dWpcc1S5VtS2bsqi2JuR2OZMrr_H_jGbbhMAytThy5GigOba3RQaPKnM9PLW0VxIohpVrPlUIpfus0wk39lJvJG8FuwdPCpd7GUQ894HWNNdzZgpJx-_rjDxy3u1nieBxmfVeQlP7irb91VDP029vYoUSWT1CujaVBP55C1fmQnQ7X9SXrhqUJfXPIYpc63KEjwTvsIEnURjqYQKH0B5eNZRqfPjeXroDif4-L4e1_sBU9O_ELJCqYKmOku_U4b1kWI6xVFGijVucw9UnwFIxxqdsM_tb2ZBE4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 25-Nov-2027 07:13:42 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 27-Nov-2019 07:13:42 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D649796442%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Mon, 27 Nov 2017 07:43:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Mon, 27-Nov-2017 07:43:43 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511767423~id=5d4e34669944baf154596658c9fbf513; Path=/
+
+VERIFIED
+
+[11/27/2017 7:21 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=YCFL3CZCFH7SQ, tax=0.00, address_street=Orchideenstr. 78, payment_date=11:23:20 Nov 16, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=85049, first_name=Elena, address_country_code=DE, address_name=Elena Bauer, notify_version=3.8, custom=199, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=ingolstadt, quantity=1, verify_sign=AEIyV.4fvfHZ38VeRbz3PqoDj1MKAmamCCy1l3I5mDLA-aHj4NkVZRNk, payer_email=zeor@caseedu.tk, txn_id=1F129038S2669044A, payment_type=echeck, last_name=Bauer, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, discount=0.00, mc_currency=EUR, item_number=10035, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=a66c272b6f009, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 658f9a2b651e6
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 6
+X-EdgeConnect-Origin-MEX-Latency: 426
+Date: Mon, 27 Nov 2017 07:21:07 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Mw3vx1DhM7Q0VYL07aSd0FiZCLM9zmfHI4O6GIpCZV0X3FEM4yJQTAZG5YmZalsnCT4J6Sl_VBBVqLt9VSpOHHkoaOIXFAMIxhBOXvOpupFex05Hm07Yp-iknHODw6iu2kUJXpjHCvcEcqeRG8dQUXGsM5HH-mG6hioFaXQ5m-buGFuf2aZd70j7L1Eka3bKolrwSQGfUwLBRF4WNQLghplJkRR8HImGFO0jR83JooMFDWw9SAhd4TAQNJz0FYNMQX6YQxAM4xK5x88txMNP6LjBCEtZhPESl6EI3vRwdYqZWjelsh1baXLjolGjqfY2OSHggEofFN69btgiZIhp_TKFJ9OQzjKKuEmkM7n6v4iQu53k6Oi8-ikw9yCWfSgiBfzl3VapLU6QxZpB0pDiA4IFnXh7eetBQfc8ETUrLfkRE1QFiMiO223GLIG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 25-Nov-2027 07:21:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 27-Nov-2019 07:21:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3820755802%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Mon, 27 Nov 2017 07:51:07 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Mon, 27-Nov-2017 07:51:07 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511767867~id=3e5e25974543739b370b09411c7405e7; Path=/
+
+VERIFIED
+
+[11/27/2017 8:02 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=ARUZBF8L7RQHY, tax=0.00, address_street=Ruschestrasse 177c
+39565 Stendal, payment_date=20:32:57 Nov 16, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=79677, first_name=Manfred, address_country_code=DE, address_name=Manfred Kellner, notify_version=3.8, custom=9360, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=Bllen, quantity=1, verify_sign=AfvdwUyklQd8ullFpSXiIslQZrr7ABoAatjMGiDytUNWThk4CBGWKzyy, payer_email=lidaziv@mobilevpn.top, txn_id=7TS584447T645815K, payment_type=echeck, last_name=Kellner, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, discount=0.00, mc_currency=EUR, item_number=10035, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=a66c272b6f009, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 6b700b38e43d1
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 1
+X-EdgeConnect-Origin-MEX-Latency: 584
+Date: Mon, 27 Nov 2017 08:02:22 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=h8RAJZwI65puWPpKa8-GAqZcUT1SO27js04tDdMyP_JiwjtbSMhT3UZKMVDoop0K-__r7hLJfVDjdO6B6s-cyzKcpDWBM_numOuOYUrOHWt1SohAJybCRH1fpqCh8uX2xU7IxpnL3CJnaQqFsHhigaEEZDa56Q_jZHTTtR4hlytSMpQF_fOILRiy1AoY7nubulJPJdf0c73GBT7JQYlKcXZU2-sBrFecGJ-bkeLpOzjyTUcJ685fDDzyNEfVi5Xy3f8ufuZubdsI4zAkr91X6KqhOPLi3wAjz-NKKixhpsRBciV5pj1jZXqyO5KTSa4e6MfpvOL4tYBA9xv36u-cGM7SxsGjStGuphb2Ez5DDy5dsVxtGMoOXHcc-KNjNWXyB2V_fYxfEiWdCjdgDV6kJHYU3KE3X5B0NflJDvrqdIHuflDdUUoJTlcolzK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 25-Nov-2027 08:02:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 27-Nov-2019 08:02:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2378570586%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Mon, 27 Nov 2017 08:32:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Mon, 27-Nov-2017 08:32:22 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511770342~id=561c77452e5dd78756356dbc8a58875b; Path=/
+
+INVALID
+
+[11/27/2017 8:22 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=89.99, protection_eligibility=Ineligible, address_status=confirmed, payer_id=ARUZBF8L7RQHY, tax=0.00, address_street=Ruschestrasse 177c
+39565 Stendal, payment_date=20:34:29 Nov 16, 2017 PST, payment_status=Denied, charset=windows-1252, address_zip=79677, first_name=Manfred, address_country_code=DE, address_name=Manfred Kellner, notify_version=3.8, custom=9360, payer_status=unverified, business=angel-ac18@hotmail.com, address_country=Germany, address_city=Bllen, quantity=1, verify_sign=AUsJlM3Rt9t-5LNsX94qwg1h5-AeAFKfau.5Qeg6bFH3WCuz4nZBBf9s, payer_email=lidaziv@mobilevpn.top, txn_id=51H79310T3197324T, payment_type=echeck, last_name=Kellner, address_state=, receiver_email=angel-ac18@hotmail.com, shipping_discount=0.00, insurance_amount=0.00, receiver_id=SQHP5H6Q4SKF8, txn_type=web_accept, item_name=Duex 135000 Coins  X $89.99, discount=0.00, mc_currency=EUR, item_number=10035, residence_country=DE, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=a66c272b6f009, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 29fa67fdbf54f
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 2
+X-EdgeConnect-Origin-MEX-Latency: 613
+Date: Mon, 27 Nov 2017 08:22:12 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=C-KqCCavsRoVVOgt7kw-0H6xOSVf0qQEBcfu9fQJ7JvIvG1PGQML8M4nCdxsIHXGsFhnB2V9dSY8iY2H6YYJCORnxl3L_XQISNrVs-g_c-NCg6m5P4LOzLR8JanG169cvLwqepL6lltug8fVVHKA_det9tyjY_fHnced9HWETMGRIZ7MrcPU-tcA8TcVcfE65dayh-Jm6r49aiKSUQtRHleh2LRsRC5dX1P5YkgBdOuTGFOpJV_4ZqMzeEDpV9fB8e1HRny-kAMt2AlIGYepkYZJT_9RFvypXPBtk3koxDwJREWZiH8DE5hPN3gxJCQ4TvzSfKL8dc9IZeAoUDUgr6j5wrw01XKeoFr_c9BzK10vb-3XOjQeAYLV1Zp54nQMKNMUGaN1hxySDNXVgVwGNYfM8RnWCe5mGhPzIxwLJNy2u0JquJOVoR3WaA8; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 25-Nov-2027 08:22:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 27-Nov-2019 08:22:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D868948826%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Mon, 27 Nov 2017 08:52:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Mon, 27-Nov-2017 08:52:12 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1511771532~id=1ea8d099e6857edbd942a1c1c436e172; Path=/
+
+INVALID
+
