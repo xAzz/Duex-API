@@ -1,0 +1,335 @@
+[10-Nov-2017 08:02:19 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ullxqcmw_api'@'99.198.117.242' (using password: YES) in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 8
+[10-Nov-2017 08:17:50 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 11
+[10-Nov-2017 08:17:51 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 11
+[10-Nov-2017 08:17:53 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 11
+[10-Nov-2017 08:17:53 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 11
+[10-Nov-2017 08:17:54 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 11
+[10-Nov-2017 08:18:11 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 11
+[10-Nov-2017 08:18:12 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 11
+[10-Nov-2017 08:24:26 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[10-Nov-2017 08:24:29 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[10-Nov-2017 08:24:35 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[10-Nov-2017 08:24:40 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[10-Nov-2017 08:29:59 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:30:04 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:30:15 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:30:18 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:30:19 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:31:03 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:36:13 America/New_York] PHP Fatal error:  Call to undefined function utf16_encode() in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:45 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:36:48 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 23
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 08:38:55 America/New_York] PHP Warning:  mb_convert_encoding() expects at least 2 parameters, 1 given in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 24
+[10-Nov-2017 09:51:03 America/New_York] PHP Warning:  Illegal string offset 'dcount' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 25
+[10-Nov-2017 09:51:03 America/New_York] PHP Warning:  Illegal string offset 'dcount' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 25
+[10-Nov-2017 09:51:03 America/New_York] PHP Warning:  Illegal string offset 'dcount' in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 25
+[19-Nov-2017 03:05:18 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:18 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:18 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:18 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:18 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:20 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:20 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:20 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:20 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:20 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:30 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:30 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:30 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:30 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:30 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:31 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:31 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:31 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:31 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:31 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:38 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:39 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:40 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:40 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:40 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:40 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:40 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:40 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:40 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:40 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:40 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:40 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:41 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:05:41 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:05:41 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:05:41 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:05:41 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:05:41 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 32
+[19-Nov-2017 03:05:41 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 33
+[19-Nov-2017 03:05:41 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 34
+[19-Nov-2017 03:05:41 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 39
+[19-Nov-2017 03:05:41 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 50
+[19-Nov-2017 03:05:42 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 32
+[19-Nov-2017 03:05:42 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 33
+[19-Nov-2017 03:05:42 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 34
+[19-Nov-2017 03:05:42 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 39
+[19-Nov-2017 03:05:42 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 50
+[19-Nov-2017 03:05:42 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 32
+[19-Nov-2017 03:05:42 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 33
+[19-Nov-2017 03:05:42 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 34
+[19-Nov-2017 03:05:42 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 39
+[19-Nov-2017 03:05:42 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 50
+[19-Nov-2017 03:05:43 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 32
+[19-Nov-2017 03:05:43 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 33
+[19-Nov-2017 03:05:43 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 34
+[19-Nov-2017 03:05:43 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 39
+[19-Nov-2017 03:05:43 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 50
+[19-Nov-2017 03:05:43 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 32
+[19-Nov-2017 03:05:43 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 33
+[19-Nov-2017 03:05:43 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 34
+[19-Nov-2017 03:05:43 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 39
+[19-Nov-2017 03:05:43 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 50
+[19-Nov-2017 03:06:40 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:06:40 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:06:40 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:06:40 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:06:40 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:09:03 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:09:03 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:09:03 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:09:03 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:09:03 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:09:04 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:09:04 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:09:04 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:09:04 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:09:04 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:09:04 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:09:04 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:09:04 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:09:04 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:09:04 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:13:33 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:13:33 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:13:33 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:13:33 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:13:33 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:19:28 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:19:28 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:19:28 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:19:28 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:19:28 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:19:33 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:19:33 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:19:33 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:19:33 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:19:33 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:19:34 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:19:34 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:19:34 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:19:34 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:19:34 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:19:35 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:19:35 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:19:35 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:19:35 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:19:35 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:19:36 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 32
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 33
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 34
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 39
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 50
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:19:39 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
+[19-Nov-2017 03:19:40 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 12
+[19-Nov-2017 03:19:40 America/New_York] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 13
+[19-Nov-2017 03:19:40 America/New_York] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 14
+[19-Nov-2017 03:19:40 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 19
+[19-Nov-2017 03:19:40 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/ullxqcmw/api.duex.io/faber/ranking/index.php on line 30
